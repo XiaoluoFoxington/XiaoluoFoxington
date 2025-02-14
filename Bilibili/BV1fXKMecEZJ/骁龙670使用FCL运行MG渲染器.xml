@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+来自AutSheng (http://www.autsheng.xyz)
+导出: 2025-02-15 04:30 AM
+5.2.0 (1002592)
+a34a6c0 (2024年10月7日 18:17:29)
+-->
+<scene title="骁龙670使用FCL运行MG渲染器" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="121072" fps="30" modifiedTime="1739565021608" amver="1002592" ffver="106" am="com.autsheng.motion/5.2.0" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <audio id="207" label="241228 ～ 九维见董狐.m4a" startTime="0" endTime="121072" src="content://media/external/audio/media/225451" outTime="121040" mediaFillMode="fill" />
+  <shape id="206" label="Screenrecording_20250215_031643.mp4" startTime="0" endTime="54965" fillType="media" fillVideo="content://media/external/video/media/235345" inTime="2366" outTime="57331" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <rotation value="270.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="443.000000,960.000000" />
+  </shape>
+  <shape id="209" label="Screenrecording_20250215_031643.mp4" startTime="54966" endTime="73399" fillType="media" fillVideo="content://media/external/video/media/235345" inTime="96565" outTime="114998" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <rotation value="270.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="443.000000,960.000000" />
+  </shape>
+  <shape id="210" label="Screenrecording_20250215_032050.mp4" startTime="73400" endTime="83632" fillType="media" fillVideo="content://media/external/video/media/235346" outTime="10232" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <rotation value="270.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="443.000000,960.000000" />
+  </shape>
+  <shape id="212" label="Screenrecording_20250215_032050.mp4" startTime="83633" endTime="121066" fillType="media" fillVideo="content://media/external/video/media/235346" inTime="39933" outTime="77366" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <rotation value="270.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="443.000000,960.000000" />
+  </shape>
+  <text id="213" startTime="0" endTime="10032" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1408" align="left">
+    <transform>
+      <location value="1151.889160,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <effect id="com.alightcreative.effects.longshadow2" locallyApplied="true">
+      <property name="size" type="float" value="0.200000" />
+      <property name="angle" type="float" value="45.000000" />
+      <property name="color" type="color" value="#ff000000" />
+      <property name="alpha" type="float" value="0.500000" />
+      <property name="solidity" type="float" value="1.000000" />
+      <property name="fill" type="float" value="1.000000" />
+      <property name="fade" type="float" value="1.000000" />
+      <property name="fadeType" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.randomdisplace" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="evolution" type="float">
+        <kf t="0.000000" v="0.000000" />
+        <kf t="0.983992" v="5.000000" />
+      </property>
+      <property name="seed" type="float" value="0.000000" />
+      <property name="scatter" type="float" value="0.750000" />
+    </effect>
+    <content>MC：1.20.1 Fabric
+光影：MakeUp-UltraFast 9.1c
+Iris：1.7.5
+CPU：骁龙670 2GHz 8核</content>
+  </text>
+</scene>
