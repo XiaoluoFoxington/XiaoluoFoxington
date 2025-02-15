@@ -1,0 +1,872 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+来自AutSheng (http://www.autsheng.xyz)
+导出: 2025-02-15 02:28 PM
+5.2.0 (1002592)
+a34a6c0 (Oct 7, 2024 18:17:29)
+-->
+<scene title="？|build ver 2" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="50299" fps="60" modifiedTime="1739600930981" amver="1002592" ffver="106" am="com.autsheng.motion/5.2.0" amplatform="android" retime="freeze" thumbnailTime="0" retimeAdaptFPS="false">
+  <bookmark t="35775" />
+  <bookmark t="36041" />
+  <bookmark t="36341" />
+  <bookmark t="30858" />
+  <bookmark t="22825" />
+  <bookmark t="18808" />
+  <bookmark t="8" />
+  <text id="166" startTime="0" endTime="50299" fillType="color" mediaFillMode="fill" size="112.000000" font="imported?name=Minecraft.ttf" wrapWidth="1977" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <opacity value="0.097656" />
+    </transform>
+    <content>B站
+妙狗国国王</content>
+  </text>
+  <audio id="105" label="All For Love-Tungevaag &amp;amp; Raaban.320.mp3" startTime="0" endTime="50299" src="content://media/external/audio/media/226480" outTime="50299" mediaFillMode="fill" />
+  <text id="106" startTime="0" endTime="2049" fillType="color" mediaFillMode="fill" size="36.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.012201" v="1.000000,1.000000" />
+        <kf t="0.988287" v="2.671875,2.671875" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>?</content>
+  </text>
+  <text id="107" startTime="1750" endTime="2199" fillType="color" mediaFillMode="fill" size="48.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1869" align="center">
+    <transform>
+      <location>
+        <kf t="2.616927" v="960.000000,-70.047363,0.000000" />
+        <kf t="0.055679" v="960.000000,1142.952637,0.000000" />
+        <kf t="0.946548" v="960.000000,-143.960388,0.000000" />
+      </location>
+    </transform>
+    <content>wuwuuu↑</content>
+  </text>
+  <text id="109" startTime="2200" endTime="2649" fillType="color" mediaFillMode="fill" size="48.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1869" align="center">
+    <transform>
+      <location>
+        <kf t="2.616927" v="960.000000,-70.047363,0.000000" />
+        <kf t="0.055679" v="960.000000,1142.952637,0.000000" />
+        <kf t="0.946548" v="960.000000,-70.047363,0.000000" />
+      </location>
+    </transform>
+    <content>wuwuuu↑</content>
+  </text>
+  <text id="111" startTime="2966" endTime="6165" fillType="color" mediaFillMode="fill" size="32.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1723" align="center">
+    <transform>
+      <location>
+        <kf t="-0.002501" v="516.500000,1143.500000,0.000000" />
+        <kf t="0.060019" v="577.446228,1079.000000,0.000000" />
+        <kf t="0.091279" v="675.946228,1006.500000,0.000000" />
+        <kf t="0.153798" v="757.446228,955.000000,0.000000" />
+        <kf t="0.226633" v="869.946228,904.500000,0.000000" />
+        <kf t="0.294467" v="960.000000,882.000000,0.000000" />
+        <kf t="0.382932" v="1051.500000,882.000000,0.000000" />
+        <kf t="0.487340" v="1143.000000,892.500000,0.000000" />
+        <kf t="0.591435" v="1219.500000,904.500000,0.000000" />
+        <kf t="0.669584" v="1309.000000,946.000000,0.000000" />
+        <kf t="0.784308" v="1387.500000,1006.500000,0.000000" />
+        <kf t="0.929978" v="1459.431885,1075.000000,0.000000" />
+        <kf t="0.987496" v="1508.931885,1126.000000,0.000000" />
+      </location>
+    </transform>
+    <content>kejifumorolesangsinggooood</content>
+  </text>
+  <text id="124" startTime="3883" endTime="4582" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1638" align="center">
+    <transform>
+      <location value="960.000000,871.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.000000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>114514</content>
+  </text>
+  <text id="114" startTime="4600" endTime="5082" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location>
+        <kf t="0.016598" v="291.500000,1198.000000,0.000000" />
+        <kf t="0.985477" v="291.500000,-154.500000,0.000000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+      </location>
+    </transform>
+    <content>桑~</content>
+  </text>
+  <text id="115" startTime="4933" endTime="5415" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location>
+        <kf t="0.016598" v="876.563599,1195.083496,0.000000" />
+        <kf t="0.985477" v="876.563599,-140.054688,0.000000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+      </location>
+    </transform>
+    <content>兴~</content>
+  </text>
+  <text id="116" startTime="5350" endTime="5832" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location>
+        <kf t="0.016598" v="1625.500000,1154.000000,0.000000" />
+        <kf t="0.985477" v="1625.500000,-136.500000,0.000000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+      </location>
+    </transform>
+    <content>骨~</content>
+  </text>
+  <text id="184" label="114514 Copy" startTime="5633" endTime="6332" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1638" align="center">
+    <transform>
+      <location value="960.000000,871.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.000000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>114514</content>
+  </text>
+  <text id="117" startTime="6233" endTime="6549" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1830" align="center">
+    <transform>
+      <location>
+        <kf t="0.025316" v="960.000000,1183.500000,0.000000" />
+        <kf t="0.974684" v="960.000000,-148.000000,0.000000" />
+      </location>
+    </transform>
+    <content>操                        </content>
+  </text>
+  <text id="119" startTime="6483" endTime="6799" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1830" align="center">
+    <transform>
+      <location>
+        <kf t="0.025316" v="960.000000,1183.500000,0.000000" />
+        <kf t="0.974684" v="960.000000,-148.000000,0.000000" />
+      </location>
+    </transform>
+    <content>奶             </content>
+  </text>
+  <text id="120" startTime="6783" endTime="7099" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1830" align="center">
+    <transform>
+      <location>
+        <kf t="0.025316" v="960.000000,1183.500000,0.000000" />
+        <kf t="0.974684" v="960.000000,-148.000000,0.000000" />
+      </location>
+    </transform>
+    <content>奶     </content>
+  </text>
+  <text id="121" startTime="7016" endTime="7332" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1830" align="center">
+    <transform>
+      <location>
+        <kf t="0.025316" v="960.000000,1183.500000,0.000000" />
+        <kf t="0.974684" v="960.000000,-148.000000,0.000000" />
+      </location>
+    </transform>
+    <content>                duir</content>
+  </text>
+  <text id="125" startTime="7683" endTime="8682" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1830" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.992993" v="0.942077,0.942077" />
+        <kf t="0.009009" v="0.611475,0.611475" />
+        <kf t="0.975976" v="1.044809,1.044809" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>喔                      </content>
+  </text>
+  <text id="182" startTime="7800" endTime="8499" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1638" align="center">
+    <transform>
+      <location value="960.000000,871.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.000000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>114514</content>
+  </text>
+  <text id="126" startTime="7883" endTime="8882" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1830" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.992993" v="0.942077,0.942077" />
+        <kf t="0.009009" v="0.611475,0.611475" />
+        <kf t="0.975976" v="1.044809,1.044809" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>佛    </content>
+  </text>
+  <text id="127" startTime="8400" endTime="9399" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="2794" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.992993" v="0.942077,0.942077" />
+        <kf t="0.009009" v="0.611475,0.611475" />
+        <kf t="0.975976" v="1.044809,1.044809" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>                     拉啊乌</content>
+  </text>
+  <text id="128" startTime="9200" endTime="9515" fillType="color" mediaFillMode="fill" size="144.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1876" align="center">
+    <transform>
+      <location>
+        <kf t="0.025397" v="960.000000,1246.533203,0.000000" />
+        <kf t="0.977778" v="960.000000,-215.916870,0.000000" />
+      </location>
+    </transform>
+    <content>dvi</content>
+  </text>
+  <text id="129" startTime="9500" endTime="10499" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1830" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.992993" v="0.942077,0.942077" />
+        <kf t="0.009009" v="0.611475,0.611475" />
+        <kf t="0.975976" v="1.044809,1.044809" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>喔                      </content>
+  </text>
+  <text id="183" startTime="9650" endTime="10349" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1638" align="center">
+    <transform>
+      <location value="960.000000,871.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.000000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>114514</content>
+  </text>
+  <text id="130" startTime="9700" endTime="10699" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1830" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.992993" v="0.942077,0.942077" />
+        <kf t="0.009009" v="0.611475,0.611475" />
+        <kf t="0.975976" v="1.044809,1.044809" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>佛    </content>
+  </text>
+  <text id="131" startTime="10216" endTime="11215" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="2794" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.992993" v="0.942077,0.942077" />
+        <kf t="0.009009" v="0.611475,0.611475" />
+        <kf t="0.975976" v="1.044809,1.044809" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>                     拉啊乌</content>
+  </text>
+  <shape id="133" label="《是真专家我们没救了》.jpg" startTime="10450" endTime="11465" fillType="media" fillImage="content://media/external/images/media/226350" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="521.500000,425.270325,0.000000" />
+      <scale>
+        <kf t="0.007882" v="0.293513,0.293513" />
+        <kf t="0.993103" v="0.533228,0.533228" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="632.000000,540.000000" />
+  </shape>
+  <text id="134" startTime="11216" endTime="14149" fillType="color" mediaFillMode="fill" size="32.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1899" align="center">
+    <transform>
+      <location>
+        <kf t="0.003069" v="2434.500000,967.000000,0.000000" />
+        <kf t="0.144903" v="2249.000000,967.000000,0.000000" e="step 0.18888885 0.0" />
+        <kf t="0.321173" v="1981.500000,969.500000,0.000000" e="step 0.5044445 0.0" />
+        <kf t="0.497443" v="1825.000000,969.500000,0.000000" e="step 0.50333333 0.0" />
+        <kf t="0.645073" v="1776.500000,967.000000,0.000000" e="step 0.49764207 0.0" />
+        <kf t="0.849642" v="1483.000000,969.500000,0.000000" e="step 0.50111115 0.0" />
+        <kf t="0.923628" v="792.500000,664.000000,0.000000" />
+        <kf t="0.934879" v="1444.000000,347.500000,0.000000" />
+        <kf t="0.940675" v="467.875000,139.375000,0.000000" />
+        <kf t="0.951926" v="861.875000,962.000000,0.000000" />
+        <kf t="0.968974" v="1343.375000,356.500000,0.000000" />
+        <kf t="0.986021" v="-991.625000,680.500000,0.000000" />
+        <kf t="0.855438" v="1712.905396,142.066711,0.000000" />
+        <kf t="0.866689" v="217.538574,217.185669,0.000000" />
+        <kf t="0.883737" v="467.875000,962.000000,0.000000" />
+        <kf t="0.894988" v="1391.500000,488.948730,0.000000" />
+      </location>
+    </transform>
+    <content>yifwonenuonalikonakuu</content>
+  </text>
+  <shape id="136" label="《怕留案底》.jpg" startTime="11600" endTime="12615" fillType="media" fillImage="content://media/external/images/media/226344" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="592.500000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.007882" v="0.375521,0.375521" />
+        <kf t="0.993103" v="0.469792,0.469792" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="960.000000,512.500000" />
+  </shape>
+  <text id="185" label="114514 Copy 2" startTime="11800" endTime="12499" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1638" align="center">
+    <transform>
+      <location value="960.000000,871.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.000000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>114514</content>
+  </text>
+  <text id="135" startTime="12800" endTime="13815" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.007882" v="1.615234,1.615234" />
+        <kf t="0.993103" v="5.562500,5.562500" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>裤~</content>
+  </text>
+  <text id="186" label="114514 Copy 3" startTime="13650" endTime="14349" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1638" align="center">
+    <transform>
+      <location value="960.000000,871.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.000000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>114514</content>
+  </text>
+  <text id="153" startTime="14133" endTime="14449" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1830" align="center">
+    <transform>
+      <location>
+        <kf t="0.025316" v="960.000000,1183.500000,0.000000" />
+        <kf t="0.974684" v="960.000000,-148.000000,0.000000" />
+      </location>
+    </transform>
+    <content>操                        </content>
+  </text>
+  <shape id="169" label="1f914.webp" startTime="14283" endTime="15299" fillType="media" fillImage="content://media/external/images/media/230681" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,534.666626,0.000000" />
+      <scale>
+        <kf t="0.007874" v="0.296296,0.296296" />
+        <kf t="0.992126" v="0.487037,0.487037" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="540.000000,540.000000" />
+  </shape>
+  <text id="154" startTime="14383" endTime="14699" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1830" align="center">
+    <transform>
+      <location>
+        <kf t="0.025316" v="960.000000,1183.500000,0.000000" />
+        <kf t="0.974684" v="960.000000,-148.000000,0.000000" />
+      </location>
+    </transform>
+    <content>奶             </content>
+  </text>
+  <text id="155" startTime="14683" endTime="14999" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1830" align="center">
+    <transform>
+      <location>
+        <kf t="0.025316" v="960.000000,1183.500000,0.000000" />
+        <kf t="0.974684" v="960.000000,-148.000000,0.000000" />
+      </location>
+    </transform>
+    <content>奶     </content>
+  </text>
+  <text id="156" startTime="14900" endTime="15216" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1830" align="center">
+    <transform>
+      <location>
+        <kf t="0.025316" v="960.000000,1183.500000,0.000000" />
+        <kf t="0.974684" v="960.000000,-148.000000,0.000000" />
+      </location>
+    </transform>
+    <content>                duir</content>
+  </text>
+  <text id="187" label="114514 Copy 4" startTime="15083" endTime="15782" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1638" align="center">
+    <transform>
+      <location value="960.000000,871.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.000000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>114514</content>
+  </text>
+  <text id="158" startTime="15183" endTime="16182" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1830" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.992993" v="0.942077,0.942077" />
+        <kf t="0.009009" v="0.611475,0.611475" />
+        <kf t="0.975976" v="1.044809,1.044809" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>喔                      </content>
+  </text>
+  <text id="159" startTime="15350" endTime="16349" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1830" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.992993" v="0.942077,0.942077" />
+        <kf t="0.009009" v="0.611475,0.611475" />
+        <kf t="0.975976" v="1.044809,1.044809" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>佛    </content>
+  </text>
+  <text id="160" startTime="15533" endTime="16532" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="2794" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.992993" v="0.942077,0.942077" />
+        <kf t="0.009009" v="0.611475,0.611475" />
+        <kf t="0.975976" v="1.044809,1.044809" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>                     拉啊乌</content>
+  </text>
+  <text id="161" startTime="16300" endTime="16615" fillType="color" mediaFillMode="fill" size="144.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1876" align="center">
+    <transform>
+      <location>
+        <kf t="0.025397" v="960.000000,1246.533203,0.000000" />
+        <kf t="0.977778" v="960.000000,-215.916870,0.000000" />
+      </location>
+    </transform>
+    <content>dvi</content>
+  </text>
+  <text id="162" startTime="16833" endTime="17832" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1830" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.992993" v="0.942077,0.942077" />
+        <kf t="0.009009" v="0.611475,0.611475" />
+        <kf t="0.975976" v="1.044809,1.044809" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>喔                      </content>
+  </text>
+  <text id="163" startTime="17033" endTime="18032" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1830" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.992993" v="0.942077,0.942077" />
+        <kf t="0.009009" v="0.611475,0.611475" />
+        <kf t="0.975976" v="1.044809,1.044809" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>佛    </content>
+  </text>
+  <text id="188" label="114514 Copy 5" startTime="17100" endTime="17799" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1638" align="center">
+    <transform>
+      <location value="960.000000,871.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.000000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>114514</content>
+  </text>
+  <text id="164" startTime="17283" endTime="18282" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="2794" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.992993" v="0.942077,0.942077" />
+        <kf t="0.009009" v="0.611475,0.611475" />
+        <kf t="0.975976" v="1.044809,1.044809" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>                     拉啊乌</content>
+  </text>
+  <text id="165" startTime="18550" endTime="18815" fillType="color" mediaFillMode="fill" size="36.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1952" align="center">
+    <transform>
+      <location>
+        <kf t="0.030189" v="960.000000,-64.500000,0.000000" />
+        <kf t="0.973585" v="960.000000,1193.000000,0.000000" />
+      </location>
+    </transform>
+    <content>[应当的音效]</content>
+  </text>
+  <text id="167" startTime="19550" endTime="20565" fillType="color" mediaFillMode="fill" size="144.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1880" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.007882" v="3.480319,3.480319" />
+        <kf t="0.993103" v="0.016489,0.016489" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>踹哎离</content>
+  </text>
+  <text id="171" startTime="20366" endTime="21381" fillType="color" mediaFillMode="fill" size="144.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1880" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.007882" v="3.480319,3.480319" />
+        <kf t="0.993103" v="0.016489,0.016489" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>踹的发爱</content>
+  </text>
+  <text id="172" startTime="21566" endTime="23700" fillType="color" mediaFillMode="fill" size="32.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1190" align="center">
+    <transform>
+      <location>
+        <kf t="0.004217" v="-618.000000,485.500000,0.000000" />
+        <kf t="0.168229" v="52.500000,607.500000,0.000000" />
+        <kf t="0.308810" v="431.000000,729.000000,0.000000" />
+        <kf t="0.449391" v="798.500000,906.500000,0.000000" />
+        <kf t="0.597470" v="952.000000,1017.000000,0.000000" />
+        <kf t="0.730553" v="1271.500000,906.500000,0.000000" />
+        <kf t="0.863168" v="1642.000000,815.000000,0.000000" />
+        <kf t="0.972352" v="2145.500000,729.000000,0.000000" />
+        <kf t="0.988285" v="2610.441406,607.500000,0.000000" />
+      </location>
+    </transform>
+    <content>allthethingsenserallmymy</content>
+  </text>
+  <shape id="176" label="《谷歌输入法还可以怀孕》.jpg" startTime="21783" endTime="23799" fillType="media" fillImage="content://media/external/images/media/230684" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="426.212433,410.722351,0.000000" />
+      <scale>
+        <kf t="0.003968" v="0.450997,0.450997" />
+        <kf t="0.996032" v="0.727575,0.727575" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="602.000000,540.000000" />
+  </shape>
+  <text id="173" startTime="22883" endTime="23898" fillType="color" mediaFillMode="fill" size="144.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1789" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.993103" v="1.714782,1.714782" />
+        <kf t="0.007882" v="0.455652,0.455652" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>买→</content>
+  </text>
+  <text id="174" startTime="23166" endTime="24181" fillType="color" mediaFillMode="fill" size="144.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1931" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.993103" v="1.714782,1.714782" />
+        <kf t="0.007882" v="0.455652,0.455652" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>买↑</content>
+  </text>
+  <text id="177" startTime="23966" endTime="24449" fillType="color" mediaFillMode="fill" size="144.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1936" align="center">
+    <transform>
+      <location>
+        <kf t="0.018634" v="960.000000,1286.000000,0.000000" />
+        <kf t="0.983437" v="960.000000,-254.500000,0.000000" />
+      </location>
+    </transform>
+    <content>捂         </content>
+  </text>
+  <text id="178" startTime="24200" endTime="24683" fillType="color" mediaFillMode="fill" size="144.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1936" align="center">
+    <transform>
+      <location>
+        <kf t="0.018634" v="960.000000,1286.000000,0.000000" />
+        <kf t="0.983437" v="960.000000,-254.500000,0.000000" />
+      </location>
+    </transform>
+    <content>         微</content>
+  </text>
+  <text id="179" startTime="24433" endTime="24916" fillType="color" mediaFillMode="fill" size="144.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1936" align="center">
+    <transform>
+      <location>
+        <kf t="0.018634" v="960.000000,1286.000000,0.000000" />
+        <kf t="0.983437" v="960.000000,-254.500000,0.000000" />
+      </location>
+    </transform>
+    <content>捂         </content>
+  </text>
+  <text id="180" startTime="24566" endTime="25049" fillType="color" mediaFillMode="fill" size="144.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1936" align="center">
+    <transform>
+      <location>
+        <kf t="0.018634" v="960.000000,1286.000000,0.000000" />
+        <kf t="0.983437" v="960.000000,-254.500000,0.000000" />
+      </location>
+    </transform>
+    <content>       stay</content>
+  </text>
+  <text id="189" startTime="24716" endTime="25732" fillType="color" mediaFillMode="fill" size="32.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1875" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.007874" v="0.616000,0.616000" />
+        <kf t="0.992126" v="1.446400,1.446400" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>together~~~</content>
+  </text>
+  <shape id="194" label="6651210A0EEE35E450E04CE918628A16793DA0.jpg" startTime="25266" endTime="27282" fillType="media" fillImage="content://media/external/images/media/235067" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="552.500000,810.000000,0.000000" />
+      <scale>
+        <kf t="0.004464" v="0.211979,0.211979" />
+        <kf t="0.988095" v="0.496875,0.496875" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="960.000000,374.000000" />
+  </shape>
+  <text id="190" startTime="25450" endTime="27183" fillType="color" mediaFillMode="fill" size="32.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1894" align="center">
+    <transform>
+      <location>
+        <kf t="0.014426" v="960.000000,-54.500000,0.000000" />
+        <kf t="0.975765" v="960.000000,1170.000000,0.000000" />
+      </location>
+    </transform>
+    <content>咚→咚～咚↑咚↓咚→</content>
+  </text>
+  <text id="191" startTime="26950" endTime="27965" fillType="color" mediaFillMode="fill" size="144.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1880" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.007882" v="3.480319,3.480319" />
+        <kf t="0.993103" v="0.016489,0.016489" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>额踹了普</content>
+  </text>
+  <text id="192" startTime="27900" endTime="28915" fillType="color" mediaFillMode="fill" size="144.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1880" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.007882" v="3.480319,3.480319" />
+        <kf t="0.993103" v="0.016489,0.016489" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>踹了跑</content>
+  </text>
+  <text id="193" startTime="28850" endTime="29865" fillType="color" mediaFillMode="fill" size="144.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1880" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.007882" v="3.480319,3.480319" />
+        <kf t="0.993103" v="0.016489,0.016489" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>踹了别克</content>
+  </text>
+  <text id="195" startTime="29733" endTime="30582" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1891" align="center">
+    <transform>
+      <location>
+        <kf t="0.009423" v="2357.946533,94.452148,0.000000" />
+        <kf t="0.991755" v="-423.500000,1124.452148,0.000000" />
+      </location>
+      <scale value="2.069804,2.069804" />
+    </transform>
+    <content>keshoraungkethe</content>
+  </text>
+  <text id="196" startTime="30416" endTime="31432" fillType="color" mediaFillMode="fill" size="144.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1959" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.000000" />
+      <property name="outTime" type="float" value="1.000000" />
+    </effect>
+    <content>star↑</content>
+  </text>
+  <shape id="199" label="Screenshot_20250203_132819.jpg" startTime="30850" endTime="32865" fillType="media" fillImage="content://media/external/images/media/226606" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="738.500000,664.500000,0.000000" />
+      <scale>
+        <kf t="0.003970" v="0.416146,0.416146" />
+        <kf t="0.996526" v="0.753125,0.753125" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="960.000000,443.000000" />
+  </shape>
+  <text id="197" startTime="31483" endTime="32766" fillType="color" mediaFillMode="fill" size="48.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1964" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.spin" locallyApplied="true">
+      <property name="rpm" type="float" value="60.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>坝拉比幽</content>
+  </text>
+  <text id="198" startTime="32516" endTime="33532" fillType="color" mediaFillMode="fill" size="144.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1870" align="center">
+    <transform>
+      <location>
+        <kf t="0.008858" v="2530.500000,540.000000,0.000000" />
+        <kf t="0.976378" v="-689.500000,540.000000,0.000000" />
+      </location>
+    </transform>
+    <content>river～</content>
+  </text>
+  <text id="200" startTime="33350" endTime="35083" fillType="color" mediaFillMode="fill" size="32.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1894" align="center">
+    <transform>
+      <location>
+        <kf t="0.014426" v="960.000000,-54.500000,0.000000" />
+        <kf t="0.975765" v="960.000000,1170.000000,0.000000" />
+      </location>
+    </transform>
+    <content>咚→咚～咚↑咚↓咚↑</content>
+  </text>
+  <text id="201" startTime="34716" endTime="35065" fillType="color" mediaFillMode="fill" size="144.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1230" align="center">
+    <transform>
+      <location>
+        <kf t="0.022923" v="-219.499939,540.000000,0.000000" />
+        <kf t="0.979943" v="2187.000000,540.000000,0.000000" />
+      </location>
+    </transform>
+    <content>啊</content>
+  </text>
+  <text id="202" startTime="35100" endTime="35449" fillType="color" mediaFillMode="fill" size="144.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1230" align="center">
+    <transform>
+      <location>
+        <kf t="0.022923" v="2120.500000,540.000000,0.000000" />
+        <kf t="0.979943" v="-279.499939,540.000000,0.000000" />
+      </location>
+    </transform>
+    <content>螺</content>
+  </text>
+  <text id="203" startTime="35450" endTime="36517" fillType="color" mediaFillMode="fill" size="144.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1868" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.210871" v="0.643469,0.643469" />
+        <kf t="0.164012" v="1.073341,1.073341" />
+        <kf t="0.460169" v="0.431478,0.431478" />
+        <kf t="0.398312" v="0.634368,0.634368" />
+        <kf t="0.741331" v="0.195931,0.195931" />
+        <kf t="0.663542" v="0.408994,0.408994" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>否罗由</content>
+  </text>
+  <text id="204" startTime="37000" endTime="50299" fillType="color" mediaFillMode="fill" size="32.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="2209" align="center">
+    <transform>
+      <location value="960.000000,256.500000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>10个点赞更新完整版[doge]</content>
+  </text>
+  <shape id="205" label="Screenrecording_20250213_212714.mp4" startTime="37000" endTime="50287" fillType="media" fillVideo="content://media/external/video/media/235269" outTime="13272" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="955.500000,171.000000,0.000000" />
+      <scale value="1.606481,1.606481" />
+    </transform>
+    <effect id="com.alightcreative.effects.wipe2" locallyApplied="true">
+      <property name="start" type="float" value="0.628000" />
+      <property name="end" type="float" value="1.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="feather" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="249.000000,540.000000" />
+  </shape>
+</scene>
