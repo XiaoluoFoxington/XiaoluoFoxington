@@ -1,0 +1,544 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+来自AutSheng (http://www.autsheng.xyz)
+导出: 2025-02-21 12:22 AM
+5.2.0 (1002592)
+a34a6c0 (2024年10月7日 18:17:29)
+-->
+<scene title="可能是在手机上玩Java版MC的最佳选择——FCL启动器" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="51265" fps="30" modifiedTime="1740068568237" amver="1002592" ffver="106" am="com.autsheng.motion/5.2.0" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <bookmark t="516" />
+  <bookmark t="16" />
+  <bookmark t="3516" />
+  <bookmark t="10816" />
+  <bookmark t="4016" />
+  <bookmark t="7716" />
+  <bookmark t="7216" />
+  <bookmark t="14183" />
+  <bookmark t="13383" />
+  <bookmark t="14683" />
+  <bookmark t="16650" />
+  <bookmark t="17150" />
+  <bookmark t="21250" />
+  <bookmark t="21783" />
+  <bookmark t="26250" />
+  <bookmark t="26783" />
+  <bookmark t="31250" />
+  <bookmark t="31783" />
+  <bookmark t="35550" />
+  <bookmark t="36050" />
+  <audio id="225" label="Whatever - 徐梦圆.mp3" startTime="0" endTime="51265" src="content://media/external/audio/media/226575" inTime="29966" outTime="81231" mediaFillMode="fill">
+    <gain>
+      <kf t="-0.272115" v="1.000000" />
+      <kf t="-0.291622" v="0.000000" />
+      <kf t="0.000330" v="0.000000" />
+      <kf t="0.019837" v="1.000000" />
+      <kf t="0.960694" v="1.000000" />
+      <kf t="0.999707" v="0.000000" />
+    </gain>
+  </audio>
+  <shape id="231" label="bg.png" startTime="0" endTime="28765" fillType="media" fillImage="content://media/external/images/media/225835" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="230" label="账号管理.mp4" startTime="0" endTime="3500" fillType="media" fillVideo="content://media/external/video/media/236331" outTime="6429" speed="1.836920" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.147429" v="1.000000,1.000000" e="cubicBezier 0.0 0.0 0.0 1.0" />
+        <kf t="0.004571" v="1.500000,1.500000" />
+      </scale>
+      <rotation value="-90.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="443.000000,960.000000" />
+  </shape>
+  <text id="232" startTime="0" endTime="3500" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1446" align="right">
+    <transform>
+      <location value="1122.000000,811.500000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <effect id="com.autsheng.effects.plugin.AutoShake" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="evolution" type="float" value="1.000000" />
+      <property name="doudong" type="bool" value="true" />
+      <property name="baogua" type="bool" value="false" />
+      <property name="jiahergb" type="bool" value="false" />
+      <property name="blur" type="bool" value="false" />
+      <property name="scatter" type="float" value="1.000000" />
+      <property name="bgqd" type="float" value="500.000000" />
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+      <property name="centerChannel" type="int" value="1" />
+      <property name="mode" type="int" value="2" />
+      <property name="tune" type="float" value="1.000000" />
+    </effect>
+    <shadow direction="outside">
+      <color value="#7f000000" />
+      <size value="0.000000" />
+      <offset value="5.000000,5.000000" />
+    </shadow>
+    <content>账户管理
+
+支持离线、第三方（皮肤站）和正版</content>
+  </text>
+  <shape id="233" label="资源下载.mp4" startTime="3500" endTime="7200" fillType="media" fillVideo="content://media/external/video/media/236333" outTime="5000" speed="1.351443" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.139459" v="1.000000,1.000000" e="cubicBezier 0.0 0.0 0.0 1.0" />
+        <kf t="0.003200" v="1.500000,1.500000" />
+      </scale>
+      <rotation value="270.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="443.000000,960.000000" />
+  </shape>
+  <text id="235" startTime="3500" endTime="7200" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1847" align="right">
+    <transform>
+      <location value="921.500000,811.500000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <effect id="com.autsheng.effects.plugin.AutoShake" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="evolution" type="float" value="1.000000" />
+      <property name="doudong" type="bool" value="true" />
+      <property name="baogua" type="bool" value="false" />
+      <property name="jiahergb" type="bool" value="false" />
+      <property name="blur" type="bool" value="false" />
+      <property name="scatter" type="float" value="1.000000" />
+      <property name="bgqd" type="float" value="500.000000" />
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+      <property name="centerChannel" type="int" value="1" />
+      <property name="mode" type="int" value="2" />
+      <property name="tune" type="float" value="1.000000" />
+    </effect>
+    <shadow direction="outside">
+      <color value="#7f000000" />
+      <size value="0.000000" />
+      <offset value="5.000000,5.000000" />
+    </shadow>
+    <content>资源下载
+
+版本、模组、整合包一键下载，避免在各个网站来回跳转</content>
+  </text>
+  <shape id="240" label="自动安装.mp4" startTime="7200" endTime="10800" fillType="media" fillVideo="content://media/external/video/media/236338" outTime="3600" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.143333" v="1.000000,1.000000" e="cubicBezier 0.0 0.0 0.0 1.0" />
+        <kf t="0.004444" v="1.500000,1.500000" />
+      </scale>
+      <rotation value="270.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="443.000000,960.000000" />
+  </shape>
+  <text id="241" startTime="7200" endTime="10800" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1847" align="left">
+    <transform>
+      <location value="983.108398,811.500000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <effect id="com.autsheng.effects.plugin.AutoShake" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="evolution" type="float" value="1.000000" />
+      <property name="doudong" type="bool" value="true" />
+      <property name="baogua" type="bool" value="false" />
+      <property name="jiahergb" type="bool" value="false" />
+      <property name="blur" type="bool" value="false" />
+      <property name="scatter" type="float" value="1.000000" />
+      <property name="bgqd" type="float" value="500.000000" />
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+      <property name="centerChannel" type="int" value="1" />
+      <property name="mode" type="int" value="2" />
+      <property name="tune" type="float" value="1.000000" />
+    </effect>
+    <shadow direction="outside">
+      <color value="#7f000000" />
+      <size value="0.000000" />
+      <offset value="5.000000,5.000000" />
+    </shadow>
+    <content>版本管理
+
+简单明了，轻松管理你的MC版本</content>
+  </text>
+  <text id="242" startTime="10800" endTime="12300" fillType="color" mediaFillMode="fill" size="64.000000" font="imported?name=Minecraft.ttf" wrapWidth="1802" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>别急</content>
+  </text>
+  <text id="243" startTime="12300" endTime="12800" fillType="color" mediaFillMode="fill" size="144.000000" font="imported?name=Minecraft.ttf" wrapWidth="1884" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <content>这</content>
+  </text>
+  <text id="244" startTime="12800" endTime="13366" fillType="color" mediaFillMode="fill" size="96.000000" font="imported?name=Minecraft.ttf" wrapWidth="1852" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <content>只是</content>
+  </text>
+  <text id="245" startTime="13366" endTime="14166" fillType="color" mediaFillMode="fill" size="96.000000" font="imported?name=Minecraft.ttf" wrapWidth="1848" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <path-stroke direction="centered" enabled="false" cap="butt" end-size="1.500000">
+      <color value="#ffff4444" />
+      <size value="11.500000" />
+    </path-stroke>
+    <shadow direction="outside" enabled="false">
+      <color value="#ffff4444" />
+      <size value="104.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>冰山一角</content>
+  </text>
+  <shape id="246" label="Screenrecording_20250220_232940.mp4" startTime="14166" endTime="16665" fillType="media" fillVideo="content://media/external/video/media/236340" inTime="1734" outTime="4233" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.206883" v="1.000000,1.000000" e="cubicBezier 0.0 0.0 0.0 1.0" />
+        <kf t="0.006803" v="1.500000,1.500000" />
+      </scale>
+      <rotation value="270.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="443.000000,960.000000" />
+  </shape>
+  <text id="247" startTime="14166" endTime="16666" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1847" align="left">
+    <transform>
+      <location value="1697.405029,727.351074,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <effect id="com.autsheng.effects.plugin.AutoShake" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="evolution" type="float" value="1.000000" />
+      <property name="doudong" type="bool" value="true" />
+      <property name="baogua" type="bool" value="false" />
+      <property name="jiahergb" type="bool" value="false" />
+      <property name="blur" type="bool" value="false" />
+      <property name="scatter" type="float" value="1.000000" />
+      <property name="bgqd" type="float" value="500.000000" />
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+      <property name="centerChannel" type="int" value="1" />
+      <property name="mode" type="int" value="2" />
+      <property name="tune" type="float" value="1.000000" />
+    </effect>
+    <shadow direction="outside">
+      <color value="#7f000000" />
+      <size value="0.000000" />
+      <offset value="5.000000,5.000000" />
+    </shadow>
+    <content>游戏内设置</content>
+  </text>
+  <shape id="248" label="Screenrecording_20250220_233416.mp4" startTime="16666" endTime="21245" fillType="media" fillVideo="content://media/external/video/media/236341" outTime="4547" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.105700" v="1.000000,1.000000" e="cubicBezier 0.0 0.0 0.0 1.0" />
+        <kf t="-0.003494" v="1.500000,1.500000" />
+      </scale>
+      <rotation value="270.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="443.000000,960.000000" />
+  </shape>
+  <text id="249" startTime="16633" endTime="21233" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1847" align="left">
+    <transform>
+      <location value="1540.905029,736.851074,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <effect id="com.autsheng.effects.plugin.AutoShake" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="evolution" type="float" value="1.000000" />
+      <property name="doudong" type="bool" value="true" />
+      <property name="baogua" type="bool" value="false" />
+      <property name="jiahergb" type="bool" value="false" />
+      <property name="blur" type="bool" value="false" />
+      <property name="scatter" type="float" value="1.000000" />
+      <property name="bgqd" type="float" value="500.000000" />
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+      <property name="centerChannel" type="int" value="1" />
+      <property name="mode" type="int" value="2" />
+      <property name="tune" type="float" value="1.000000" />
+    </effect>
+    <shadow direction="outside">
+      <color value="#7f000000" />
+      <size value="0.000000" />
+      <offset value="5.000000,5.000000" />
+    </shadow>
+    <content>强大的控制布局系统</content>
+  </text>
+  <shape id="250" label="Screenshot_2025_0220_233853.png" startTime="21233" endTime="26233" fillType="media" fillImage="content://media/external/images/media/236343" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.110000" v="0.750000,0.750000" e="cubicBezier 0.0 0.0 0.0 1.0" />
+        <kf t="0.003400" v="1.125000,1.125000" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="960.000000,490.500000" />
+  </shape>
+  <text id="251" startTime="21233" endTime="26233" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1847" align="center">
+    <transform>
+      <location value="960.000000,928.351074,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <effect id="com.autsheng.effects.plugin.AutoShake" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="evolution" type="float" value="1.000000" />
+      <property name="doudong" type="bool" value="true" />
+      <property name="baogua" type="bool" value="false" />
+      <property name="jiahergb" type="bool" value="false" />
+      <property name="blur" type="bool" value="false" />
+      <property name="scatter" type="float" value="1.000000" />
+      <property name="bgqd" type="float" value="500.000000" />
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+      <property name="centerChannel" type="int" value="1" />
+      <property name="mode" type="int" value="2" />
+      <property name="tune" type="float" value="1.000000" />
+    </effect>
+    <shadow direction="outside">
+      <color value="#7f000000" />
+      <size value="0.000000" />
+      <offset value="5.000000,5.000000" />
+    </shadow>
+    <content>两种启动方式，兼容性强
+还可以执行jar</content>
+  </text>
+  <shape id="252" label="Screenshot_2025_0220_234311.png" startTime="26233" endTime="31233" fillType="media" fillImage="content://media/external/images/media/236344" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.110000" v="0.934259,0.934259" e="cubicBezier 0.0 0.0 0.0 1.0" />
+        <kf t="0.003400" v="1.401852,1.401852" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="428.000000,540.000000" />
+  </shape>
+  <text id="253" startTime="26233" endTime="31233" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1847" align="left">
+    <transform>
+      <location value="991.500000,936.851074,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <effect id="com.autsheng.effects.plugin.AutoShake" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="evolution" type="float" value="1.000000" />
+      <property name="doudong" type="bool" value="true" />
+      <property name="baogua" type="bool" value="false" />
+      <property name="jiahergb" type="bool" value="false" />
+      <property name="blur" type="bool" value="false" />
+      <property name="scatter" type="float" value="1.000000" />
+      <property name="bgqd" type="float" value="500.000000" />
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+      <property name="centerChannel" type="int" value="1" />
+      <property name="mode" type="int" value="2" />
+      <property name="tune" type="float" value="1.000000" />
+    </effect>
+    <shadow direction="outside">
+      <color value="#7f000000" />
+      <size value="0.000000" />
+      <offset value="5.000000,5.000000" />
+    </shadow>
+    <content>多种渲染器，只要性能顶，光影随便开
+部分渲染器为“插件”形式，需要手动下载</content>
+  </text>
+  <shape id="254" label="Screenrecording_20250220_234815.mp4" startTime="31233" endTime="35533" fillType="media" fillVideo="content://media/external/video/media/236345" outTime="4268" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.127907" v="1.000000,1.000000" e="cubicBezier 0.0 0.0 0.0 1.0" />
+        <kf t="0.003953" v="1.500000,1.500000" />
+      </scale>
+      <rotation value="270.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="443.000000,960.000000" />
+  </shape>
+  <text id="255" startTime="31233" endTime="35533" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1847" align="right">
+    <transform>
+      <location value="951.000000,860.351074,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <effect id="com.autsheng.effects.plugin.AutoShake" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="evolution" type="float" value="1.000000" />
+      <property name="doudong" type="bool" value="true" />
+      <property name="baogua" type="bool" value="false" />
+      <property name="jiahergb" type="bool" value="false" />
+      <property name="blur" type="bool" value="false" />
+      <property name="scatter" type="float" value="1.000000" />
+      <property name="bgqd" type="float" value="500.000000" />
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+      <property name="centerChannel" type="int" value="1" />
+      <property name="mode" type="int" value="2" />
+      <property name="tune" type="float" value="1.000000" />
+    </effect>
+    <shadow direction="outside">
+      <color value="#7f000000" />
+      <size value="0.000000" />
+      <offset value="5.000000,5.000000" />
+    </shadow>
+    <content>版本管理
+可添加自己的游戏文件夹</content>
+  </text>
+  <shape id="256" label="Screenshot_2025_0220_235126.png" startTime="35533" endTime="37566" fillType="media" fillImage="content://media/external/images/media/236346" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.008362" v="1.236603,1.236603" />
+        <kf t="0.254304" v="0.824402,0.824402" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="606.500000,540.000000" />
+  </shape>
+  <shape id="259" label="Screenshot_2025_0220_235706.png" startTime="37333" endTime="40333" fillType="media" fillImage="content://media/external/images/media/236347" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.005667" v="960.000000,2544.500000,0.000000" />
+        <kf t="0.161333" v="960.000000,1470.500000,0.000000" e="cubicBezier 0.0 0.0 0.0 1.0" />
+        <kf t="0.994333" v="960.000000,-326.787231,0.000000" />
+      </location>
+      <scale value="2.659260,2.659260" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.000000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="282.000000,540.000000" />
+  </shape>
+  <shape id="260" label="Screenshot_2025_0220_235706.png" startTime="40333" endTime="43333" fillType="media" fillImage="content://media/external/images/media/236348" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.005667" v="960.000000,2544.500000,0.000000" />
+        <kf t="0.994333" v="960.000000,-326.787231,0.000000" />
+        <kf t="0.161333" v="960.000000,1540.500000,0.000000" e="cubicBezier 0.0 0.0 0.0 1.0" />
+      </location>
+      <scale value="2.659260,2.659260" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.000000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="282.000000,540.000000" />
+  </shape>
+  <text id="257" startTime="35533" endTime="43865" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1847" align="left">
+    <transform>
+      <location value="991.500000,936.851074,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <effect id="com.autsheng.effects.plugin.AutoShake" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="evolution" type="float" value="1.000000" />
+      <property name="doudong" type="bool" value="true" />
+      <property name="baogua" type="bool" value="false" />
+      <property name="jiahergb" type="bool" value="false" />
+      <property name="blur" type="bool" value="false" />
+      <property name="scatter" type="float" value="1.000000" />
+      <property name="bgqd" type="float" value="500.000000" />
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+      <property name="centerChannel" type="int" value="1" />
+      <property name="mode" type="int" value="2" />
+      <property name="tune" type="float" value="1.000000" />
+    </effect>
+    <shadow direction="outside">
+      <color value="#7f000000" />
+      <size value="0.000000" />
+      <offset value="5.000000,5.000000" />
+    </shadow>
+    <content>开源，社区友好，更新活跃</content>
+  </text>
+  <text id="261" startTime="44000" endTime="47500" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1822" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>下载链接
+http://fcl.ningmo.fun/download.html</content>
+  </text>
+  <text id="262" startTime="47500" endTime="51000" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1822" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>赞助链接
+http://afdian.com/a/tungs</content>
+  </text>
+</scene>
