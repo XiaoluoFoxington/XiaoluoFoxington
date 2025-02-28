@@ -1,0 +1,1181 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+来自AutSheng (http://www.autsheng.xyz)
+导出: 2025-03-01 06:51 AM
+5.2.0 (1002592)
+a34a6c0 (2024年10月7日 18:17:29)
+-->
+<scene title="HOMO14 - 26 | 关台通知" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="343799" fps="25" modifiedTime="1740783093913" amver="1002592" ffver="106" am="com.autsheng.motion/5.2.0" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <bookmark t="168540" />
+  <bookmark t="172860" />
+  <bookmark t="179340" />
+  <bookmark t="184780" />
+  <bookmark t="194460" />
+  <bookmark t="197820" />
+  <bookmark t="200300" />
+  <bookmark t="202660" />
+  <bookmark t="205460" />
+  <bookmark t="210980" />
+  <bookmark t="213500" />
+  <audio id="263" label="Moonlight - Rameses B.mp3" startTime="0" endTime="343784" src="content://media/external/audio/media/237148" outTime="343745" mediaFillMode="fill" />
+  <shape id="266" label="（PD）背景.mp4" startTime="0" endTime="1000" fillType="media" fillVideo="content://media/external/video/media/91760" outTime="1" speed="0.001000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="267" label="Gaming Background Loop.mp4" startTime="400" endTime="16478" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="8000" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.000000" />
+    </effect>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="276" label="Gaming Background Loop.mp4" startTime="16480" endTime="32558" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="8000" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="281" label="Gaming Background Loop.mp4" startTime="32560" endTime="48638" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="8000" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="287" label="Gaming Background Loop.mp4" startTime="48640" endTime="64718" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="8000" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="293" label="Gaming Background Loop.mp4" startTime="64720" endTime="80798" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="8000" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="298" label="Gaming Background Loop.mp4" startTime="80840" endTime="96918" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="8000" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="302" label="Gaming Background Loop.mp4" startTime="96880" endTime="112958" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="8000" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="306" label="Gaming Background Loop.mp4" startTime="112920" endTime="128998" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="8000" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="309" label="Gaming Background Loop.mp4" startTime="128960" endTime="145038" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="8000" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="312" label="Gaming Background Loop.mp4" startTime="145000" endTime="161078" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="8000" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="313" label="Gaming Background Loop.mp4" startTime="161080" endTime="177158" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="8000" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="321" label="Gaming Background Loop.mp4" startTime="177160" endTime="193238" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="8000" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="324" label="Gaming Background Loop.mp4" startTime="193240" endTime="209318" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="8000" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="331" label="Gaming Background Loop.mp4" startTime="209320" endTime="225398" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="8000" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="334" label="Gaming Background Loop.mp4" startTime="225400" endTime="241478" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="8000" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="341" label="Gaming Background Loop.mp4" startTime="241480" endTime="257558" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="8000" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="346" label="Gaming Background Loop.mp4" startTime="257560" endTime="273638" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="8000" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="347" label="Gaming Background Loop.mp4" startTime="273640" endTime="289718" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="8000" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="348" label="Gaming Background Loop.mp4" startTime="289720" endTime="305798" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="8000" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="359" label="Gaming Background Loop.mp4" startTime="305800" endTime="321878" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="8000" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="360" label="Gaming Background Loop.mp4" startTime="321880" endTime="337958" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="8000" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="361" label="Gaming Background Loop.mp4" startTime="337960" endTime="343799" fillType="media" fillVideo="content://media/external/video/media/237219" outTime="2920" speed="0.500000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="271" label="20250228_191534.png" startTime="1560" endTime="6560" fillType="media" fillImage="content://media/external/images/media/237268" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="1789.000000,1061.000000,0.000000" />
+      <scale value="0.157292,0.157292" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.100000" />
+      <property name="outTime" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="960.000000,114.500000" />
+  </shape>
+  <shape id="264" label="台标（模板）.png" startTime="0" endTime="1960" fillType="media" fillImage="content://media/external/images/media/91731" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <text id="272" startTime="3000" endTime="14000" fillType="color" mediaFillMode="fill" size="36.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1006" align="center">
+    <transform>
+      <location>
+        <kf t="0.045455" v="1625.000000,270.000000,0.000000" e="cubicBezier 0.0 0.0 0.0 1.0" />
+        <kf t="0.001818" v="1920.000000,270.000000,0.000000" />
+      </location>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>接下来</content>
+  </text>
+  <text id="273" startTime="4000" endTime="14000" fillType="color" mediaFillMode="fill" size="28.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1006" align="right">
+    <transform>
+      <location>
+        <kf t="0.050000" v="1280.000000,540.000000,0.000000" e="cubicBezier 0.0 0.0 0.0 1.0" />
+        <kf t="0.002000" v="1920.000000,540.000000,0.000000" />
+      </location>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>现在
+关台通知</content>
+  </text>
+  <text id="277" startTime="15000" endTime="17039" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1939" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>是的</content>
+  </text>
+  <text id="278" startTime="17480" endTime="20480" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1939" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>由于一些不可抗因素（电脑损坏）</content>
+  </text>
+  <text id="292" startTime="17480" endTime="20480" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1939" align="center">
+    <transform>
+      <location value="960.000000,812.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>括号内为与之对应的非世界观内容</content>
+  </text>
+  <text id="279" startTime="21000" endTime="25000" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1939" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>我们最终只能沉重地决定</content>
+  </text>
+  <text id="280" startTime="25480" endTime="30480" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1939" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>停止播出HOMO14…</content>
+  </text>
+  <text id="283" startTime="33000" endTime="39000" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1939" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>我知道这对于很多观众来说无法接受</content>
+  </text>
+  <text id="284" startTime="39480" endTime="42000" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1939" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>回顾这1.6年的历史</content>
+  </text>
+  <text id="285" startTime="42480" endTime="46480" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1939" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>我们从最初无比简陋的放映系统（手机剪映）</content>
+  </text>
+  <text id="286" startTime="47000" endTime="50000" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1939" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>不断地学习和成长</content>
+  </text>
+  <text id="289" startTime="50480" endTime="54480" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1939" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>到使用我们自研的多功能专业放映器（PR）</content>
+  </text>
+  <text id="290" startTime="55000" endTime="59000" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1939" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>从一个人包揽所有事物的业余电视台</content>
+  </text>
+  <text id="291" startTime="59480" endTime="63480" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1939" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>到现如今（此系列的粉丝）上百人的大团队</content>
+  </text>
+  <text id="294" startTime="64000" endTime="67000" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1939" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>我们一起经历了很多</content>
+  </text>
+  <text id="295" startTime="67480" endTime="71480" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1939" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>无论是某些重要员工（PD）离职（销号）</content>
+  </text>
+  <text id="296" startTime="72000" endTime="77000" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1939" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>还是狡猾之人的舆论风波（AB233事件）</content>
+  </text>
+  <text id="297" startTime="77480" endTime="82480" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1939" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>感谢所有观众对我们的大力支持</content>
+  </text>
+  <text id="299" startTime="83000" endTime="88000" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1939" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>更要感谢所有员工勤劳地工作</content>
+  </text>
+  <text id="301" startTime="88480" endTime="93480" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1939" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>这个电视台对我们来说固然重要</content>
+  </text>
+  <text id="300" startTime="94000" endTime="99000" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1939" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>当然，任何事情都不会一直一帆风顺</content>
+  </text>
+  <text id="304" startTime="99480" endTime="105480" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1939" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>看来，这个电视台的故事可以画上句号了</content>
+  </text>
+  <text id="305" startTime="106000" endTime="118000" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1761" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>我们将开源我们的技术、放映器和包装等素材
+（我会尽力收集齐制作此系列的工程文件和素材。工程文件会上传至GitHub，素材会上传至123云盘。）</content>
+  </text>
+  <text id="308" startTime="119000" endTime="131000" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1761" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="1.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>各位有缘再见！</content>
+  </text>
+  <shape id="310" label="Screenshot_2025_0228_203852.png" startTime="138000" endTime="145000" fillType="media" fillImage="content://media/external/images/media/237271" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="639.500000,540.000000,0.000000" />
+      <scale value="0.722222,0.722222" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <effect id="com.alightcreative.effects.randomdisplace" locallyApplied="true">
+      <property name="mag" type="float" value="15.000000" />
+      <property name="evolution" type="float">
+        <kf t="0.000000" v="0.000000" />
+        <kf t="1.000000" v="3.500000" />
+      </property>
+      <property name="seed" type="float" value="0.000000" />
+      <property name="scatter" type="float" value="0.750000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="100.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="747.000000,540.000000" />
+  </shape>
+  <text id="311" startTime="138000" endTime="145000" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1761" align="center">
+    <transform>
+      <location value="1356.000000,437.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>梦开始的地方…</content>
+  </text>
+  <shape id="314" label="Screenshot_2025_0228_205047.png" startTime="146000" endTime="153000" fillType="media" fillImage="content://media/external/images/media/237273" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="1291.500000,540.000000,0.000000" />
+      <scale value="0.561979,0.561979" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <effect id="com.alightcreative.effects.randomdisplace" locallyApplied="true">
+      <property name="mag" type="float" value="15.000000" />
+      <property name="evolution" type="float">
+        <kf t="0.000000" v="0.000000" />
+        <kf t="1.000000" v="3.500000" />
+      </property>
+      <property name="seed" type="float" value="0.000000" />
+      <property name="scatter" type="float" value="0.750000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="100.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="960.000000,370.000000" />
+  </shape>
+  <text id="315" startTime="146000" endTime="153000" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1761" align="center">
+    <transform>
+      <location value="337.500092,574.279053,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>学习PR…</content>
+  </text>
+  <shape id="316" label="Screenshot_2025_0228_205923.png" startTime="154000" endTime="161000" fillType="media" fillImage="content://media/external/images/media/237275" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="745.500000,540.000000,0.000000" />
+      <scale value="0.562500,0.562500" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <effect id="com.alightcreative.effects.randomdisplace" locallyApplied="true">
+      <property name="mag" type="float" value="15.000000" />
+      <property name="evolution" type="float">
+        <kf t="0.000000" v="0.000000" />
+        <kf t="1.000000" v="3.500000" />
+      </property>
+      <property name="seed" type="float" value="0.000000" />
+      <property name="scatter" type="float" value="0.750000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="100.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="960.000000,472.000000" />
+  </shape>
+  <text id="317" startTime="154000" endTime="161000" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1761" align="center">
+    <transform>
+      <location value="1461.064331,676.279053,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>制作包装…</content>
+  </text>
+  <text id="319" startTime="167640" endTime="172000" fillType="color" mediaFillMode="fill" size="28.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1761" align="left">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>我们在日常生活中忙忙碌碌，对这个世界几乎一无所知。
+We go about our daily lives understanding almost nothing of the world.</content>
+  </text>
+  <text id="320" startTime="172000" endTime="178520" fillType="color" mediaFillMode="fill" size="28.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1761" align="left">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>我们很少去思考那产生阳光并让生命得以存在的运行机制。
+We give little thought of the machinery that generates the sunlight and makes life possible.</content>
+  </text>
+  <text id="322" startTime="178520" endTime="184000" fillType="color" mediaFillMode="fill" size="28.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1761" align="left">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>也很少去考虑将我们牢牢吸附在地球上的重力，要是没有重力，我们就会被甩到太空中去。
+To the gravity that glues us to the earth that would otherwise send us spinning off into space.</content>
+  </text>
+  <text id="323" startTime="184000" endTime="190440" fillType="color" mediaFillMode="fill" size="28.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1761" align="left">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>或者是构成我们身体的原子，以及我们从根本上依赖其稳定性的原子。
+Or to the atoms that which we are made, and on who's stability we fundamentally depend.</content>
+  </text>
+  <text id="325" startTime="193200" endTime="197000" fillType="color" mediaFillMode="fill" size="28.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1761" align="left">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>我们中很少有人会花大量时间去思索，为什么大自然是现在这个样子。
+Few of us spend much time wondering why nature is the way it is.</content>
+  </text>
+  <text id="326" startTime="197000" endTime="199640" fillType="color" mediaFillMode="fill" size="28.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1761" align="left">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>宇宙从何而来。
+Where the cosmos came from.</content>
+  </text>
+  <text id="327" startTime="199640" endTime="202040" fillType="color" mediaFillMode="fill" size="28.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1761" align="left">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>它是否一直都存在。
+Whether it was always there.</content>
+  </text>
+  <text id="328" startTime="202040" endTime="204720" fillType="color" mediaFillMode="fill" size="28.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1761" align="left">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>时间是否有一天会倒流。
+If time will one day flow backward.</content>
+  </text>
+  <text id="329" startTime="204720" endTime="208680" fillType="color" mediaFillMode="fill" size="28.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1761" align="left">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>或者人类的认知是否存在着终极极限。
+Or whether there are ultimate limits to what humans can know.</content>
+  </text>
+  <text id="330" startTime="210320" endTime="213000" fillType="color" mediaFillMode="fill" size="28.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1761" align="left">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>物质最小的组成部分是什么。
+What is the smallest piece of matter.</content>
+  </text>
+  <text id="332" startTime="213000" endTime="216960" fillType="color" mediaFillMode="fill" size="28.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1761" align="left">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>为什么我们能记得过去，却记不住未来。
+Why we remember the past and not the future.</content>
+  </text>
+  <text id="333" startTime="216960" endTime="222520" fillType="color" mediaFillMode="fill" size="28.000000" font="imported?name=HanYiQiHei-25Jian-Regular-2.ttf" wrapWidth="1761" align="left">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="3.000000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="10.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>以及为什么会存在宇宙。
+And why there is a universe.</content>
+  </text>
+  <shape id="318" label="1740747752227.jpg" startTime="224000" endTime="234000" fillType="media" fillImage="content://media/external/images/media/237277" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="802.500000,540.000000,0.000000" />
+      <scale value="0.700000,0.700000" />
+      <rotation value="180.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="2.500000" />
+    </effect>
+    <effect id="com.alightcreative.effects.randomdisplace" locallyApplied="true">
+      <property name="mag" type="float" value="15.000000" />
+      <property name="evolution" type="float">
+        <kf t="0.000000" v="0.000000" />
+        <kf t="1.000000" v="5.000000" />
+      </property>
+      <property name="seed" type="float" value="0.000000" />
+      <property name="scatter" type="float" value="0.750000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="100.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="335" label="1740764010710.jpg" startTime="226000" endTime="236000" fillType="media" fillImage="content://media/external/images/media/237284" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="1323.999878,721.500000,0.000000" />
+      <scale value="0.500000,0.500000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="2.500000" />
+    </effect>
+    <effect id="com.alightcreative.effects.randomdisplace" locallyApplied="true">
+      <property name="mag" type="float" value="15.000000" />
+      <property name="evolution" type="float">
+        <kf t="0.000000" v="0.000000" />
+        <kf t="1.000000" v="5.000000" />
+      </property>
+      <property name="seed" type="float" value="0.000000" />
+      <property name="scatter" type="float" value="0.750000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="100.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="336" label="1740764274491.jpg" startTime="228000" endTime="238000" fillType="media" fillImage="content://media/external/images/media/237286" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="657.500000,494.500000,0.000000" />
+      <scale value="0.500000,0.500000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="2.500000" />
+    </effect>
+    <effect id="com.alightcreative.effects.randomdisplace" locallyApplied="true">
+      <property name="mag" type="float" value="15.000000" />
+      <property name="evolution" type="float">
+        <kf t="0.000000" v="0.000000" />
+        <kf t="1.000000" v="5.000000" />
+      </property>
+      <property name="seed" type="float" value="0.000000" />
+      <property name="scatter" type="float" value="0.750000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="100.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="337" label="1740764543421.jpg" startTime="230000" endTime="240000" fillType="media" fillImage="content://media/external/images/media/237288" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="1407.499878,374.625946,0.000000" />
+      <scale value="0.500000,0.500000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="2.500000" />
+    </effect>
+    <effect id="com.alightcreative.effects.randomdisplace" locallyApplied="true">
+      <property name="mag" type="float" value="15.000000" />
+      <property name="evolution" type="float">
+        <kf t="0.000000" v="0.000000" />
+        <kf t="1.000000" v="5.000000" />
+      </property>
+      <property name="seed" type="float" value="0.000000" />
+      <property name="scatter" type="float" value="0.750000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="100.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="338" label="1740764712530.jpg" startTime="232000" endTime="242000" fillType="media" fillImage="content://media/external/images/media/237290" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="760.500000,705.123352,0.000000" />
+      <scale value="0.500000,0.500000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="2.500000" />
+    </effect>
+    <effect id="com.alightcreative.effects.randomdisplace" locallyApplied="true">
+      <property name="mag" type="float" value="15.000000" />
+      <property name="evolution" type="float">
+        <kf t="0.000000" v="0.000000" />
+        <kf t="1.000000" v="5.000000" />
+      </property>
+      <property name="seed" type="float" value="0.000000" />
+      <property name="scatter" type="float" value="0.750000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="100.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="339" label="1740764849903.jpg" startTime="234000" endTime="244000" fillType="media" fillImage="content://media/external/images/media/237292" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="1257.092407,705.123352,0.000000" />
+      <scale value="0.500000,0.500000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="2.500000" />
+    </effect>
+    <effect id="com.alightcreative.effects.randomdisplace" locallyApplied="true">
+      <property name="mag" type="float" value="15.000000" />
+      <property name="evolution" type="float">
+        <kf t="0.000000" v="0.000000" />
+        <kf t="1.000000" v="5.000000" />
+      </property>
+      <property name="seed" type="float" value="0.000000" />
+      <property name="scatter" type="float" value="0.750000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="100.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="340" label="1740764977932.jpg" startTime="236000" endTime="246000" fillType="media" fillImage="content://media/external/images/media/237294" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="0.500000,0.500000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="2.500000" />
+    </effect>
+    <effect id="com.alightcreative.effects.randomdisplace" locallyApplied="true">
+      <property name="mag" type="float" value="15.000000" />
+      <property name="evolution" type="float">
+        <kf t="0.000000" v="0.000000" />
+        <kf t="1.000000" v="5.000000" />
+      </property>
+      <property name="seed" type="float" value="0.000000" />
+      <property name="scatter" type="float" value="0.750000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="100.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="342" label="1740765231073.jpg" startTime="238000" endTime="248000" fillType="media" fillImage="content://media/external/images/media/237298" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="528.546143,374.625946,0.000000" />
+      <scale value="0.500000,0.500000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="2.500000" />
+    </effect>
+    <effect id="com.alightcreative.effects.randomdisplace" locallyApplied="true">
+      <property name="mag" type="float" value="15.000000" />
+      <property name="evolution" type="float">
+        <kf t="0.000000" v="0.000000" />
+        <kf t="1.000000" v="5.000000" />
+      </property>
+      <property name="seed" type="float" value="0.000000" />
+      <property name="scatter" type="float" value="0.750000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="100.000000" />
+      <offset value="0.000000,3.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="343" label="1740765317197.jpg" startTime="240000" endTime="250000" fillType="media" fillImage="content://media/external/images/media/237300" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="1396.988525,437.564819,0.000000" />
+      <scale value="0.500000,0.500000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="2.500000" />
+    </effect>
+    <effect id="com.alightcreative.effects.randomdisplace" locallyApplied="true">
+      <property name="mag" type="float" value="15.000000" />
+      <property name="evolution" type="float">
+        <kf t="0.000000" v="0.000000" />
+        <kf t="1.000000" v="5.000000" />
+      </property>
+      <property name="seed" type="float" value="0.000000" />
+      <property name="scatter" type="float" value="0.750000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="100.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="345" label="Screenshot_2025_0301_015958.png" startTime="242000" endTime="252000" fillType="media" fillImage="content://media/external/images/media/237304" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="406.500000,744.575684,0.000000" />
+      <scale value="0.555556,0.555556" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="2.500000" />
+    </effect>
+    <effect id="com.alightcreative.effects.randomdisplace" locallyApplied="true">
+      <property name="mag" type="float" value="15.000000" />
+      <property name="evolution" type="float">
+        <kf t="0.000000" v="0.000000" />
+        <kf t="1.000000" v="5.000000" />
+      </property>
+      <property name="seed" type="float" value="0.000000" />
+      <property name="scatter" type="float" value="0.750000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="100.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="485.000000,540.000000" />
+  </shape>
+  <shape id="269" label="台标（模板）.png" startTime="2080" endTime="343799" fillType="media" fillImage="content://media/external/images/media/91731" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="265" label="20250228_184536.png" startTime="0" endTime="343799" fillType="media" blending="diff" fillImage="content://media/external/images/media/237162" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="299.000000,957.000000,0.000000" />
+      <scale value="0.311979,0.311979" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,394.500000" />
+  </shape>
+  <shape id="282" label="长方形 1" startTime="0" endTime="343799" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="1940.000000,-75.000000,0.000000" />
+    </transform>
+    <fillColor value="#80000000" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="350" label="圆角矩形 1" startTime="266000" endTime="267560" fillType="color" mediaFillMode="fill" s=".roundrect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.100000" />
+      <property name="outTime" type="float" value="0.100000" />
+    </effect>
+    <property name="size" type="vec2" value="200.000000,50.000000" />
+    <property name="cornerRadius" type="float" value="4.000000" />
+  </shape>
+  <text id="274" startTime="0" endTime="343799" fillType="color" mediaFillMode="fill" size="6.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location value="1880.000000,12.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.timecode" locallyApplied="true">
+      <property name="rel" type="bool" value="false" />
+      <property name="frames" type="bool" value="true" />
+    </effect>
+    <content>11:45:14</content>
+  </text>
+  <shape id="349" label="长方形 2" startTime="266000" endTime="268599" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <fillColor value="#80000000" />
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="1.000000" />
+      <property name="outTime" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <text id="351" startTime="266000" endTime="267560" fillType="color" mediaFillMode="fill" size="12.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="415" align="center">
+    <transform>
+      <location value="942.500000,540.000000,0.000000" />
+    </transform>
+    <fillColor value="#ff444444" />
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.100000" />
+      <property name="outTime" type="float" value="0.100000" />
+    </effect>
+    <content>请稍后…</content>
+  </text>
+  <shape id="354" label="1740767004477.png" startTime="266000" endTime="267560" fillType="media" fillImage="content://media/external/images/media/237306" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="820.000000,540.000000,0.000000" />
+      <scale value="0.051852,0.051852" />
+      <rotation>
+        <kf t="0.012821" v="0.000000" />
+        <kf t="0.653846" v="180.000000" />
+        <kf t="1.294872" v="360.000000" />
+      </rotation>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.100000" />
+      <property name="outTime" type="float" value="0.100000" />
+    </effect>
+    <property name="size" type="vec2" value="540.000000,540.000000" />
+  </shape>
+  <shape id="356" label="圆角矩形 2" startTime="270200" endTime="277200" fillType="color" mediaFillMode="fill" s=".roundrect">
+    <transform>
+      <location value="960.000000,960.000000,0.000000" />
+    </transform>
+    <fillColor value="#e6444444" />
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="1.000000" />
+      <property name="outTime" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="300.000000,48.000000" />
+    <property name="cornerRadius" type="float" value="48.000000" />
+  </shape>
+  <text id="355" startTime="270200" endTime="277200" fillType="color" mediaFillMode="fill" size="12.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1088" align="center">
+    <transform>
+      <location value="960.000000,960.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="1.000000" />
+      <property name="outTime" type="float" value="1.000000" />
+    </effect>
+    <content>Bootloader 已解锁，重启生效。</content>
+  </text>
+  <shape id="357" label="圆角矩形 2" startTime="276200" endTime="283200" fillType="color" mediaFillMode="fill" s=".roundrect">
+    <transform>
+      <location value="960.000000,960.000000,0.000000" />
+    </transform>
+    <fillColor value="#e6444444" />
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="1.000000" />
+      <property name="outTime" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="248.000000,48.000000" />
+    <property name="cornerRadius" type="float" value="48.000000" />
+  </shape>
+  <text id="358" startTime="276200" endTime="283200" fillType="color" mediaFillMode="fill" size="12.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="1088" align="center">
+    <transform>
+      <location value="960.000000,960.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="1.000000" />
+      <property name="outTime" type="float" value="1.000000" />
+    </effect>
+    <content>MDK放映组：有缘再会！</content>
+  </text>
+</scene>
