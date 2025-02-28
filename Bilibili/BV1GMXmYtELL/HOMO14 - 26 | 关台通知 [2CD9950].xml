@@ -3,6 +3,7 @@
 导出: 2025-03-01 06:51 AM
 5.2.0 (1002592)
 a34a6c0 (2024年10月7日 18:17:29)
+COPYRIGHT:XiaoluoFoxington
 -->
 <scene title="HOMO14 - 26 | 关台通知" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="343799" fps="25" modifiedTime="1740783093913" amver="1002592" ffver="106" am="com.autsheng.motion/5.2.0" amplatform="android" retime="freeze" retimeAdaptFPS="false">
   <bookmark t="168540" />
@@ -496,7 +497,7 @@ a34a6c0 (2024年10月7日 18:17:29)
       <location value="960.000000,540.000000,0.000000" />
     </transform>
     <effect id="com.alightcreative.effects.fade" locallyApplied="true">
-      <property name="inTime" type="float" value="0.500000" />
+      <property name="inTime" type="float" value="0.500000" /><!-- COPYRIGHT XiaoluoFoxington -->
       <property name="outTime" type="float" value="0.500000" />
     </effect>
     <shadow direction="outside">
@@ -996,7 +997,7 @@ And why there is a universe.</content>
       <property name="mag" type="float" value="15.000000" />
       <property name="evolution" type="float">
         <kf t="0.000000" v="0.000000" />
-        <kf t="1.000000" v="5.000000" />
+        <kf t="1.000000" v="5.000000" /><!-- COPYRIGHT XiaoluoFoxington -->
       </property>
       <property name="seed" type="float" value="0.000000" />
       <property name="scatter" type="float" value="0.750000" />
@@ -1179,3 +1180,4 @@ And why there is a universe.</content>
     <content>MDK放映组：有缘再会！</content>
   </text>
 </scene>
+<!-- COPYRIGHT XiaoluoFoxington -->
