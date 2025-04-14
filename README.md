@@ -48,7 +48,7 @@ vwozwz [《Fold Craft Launcher》](https://github.com/FCL-Team/FoldCraftLauncher
 
 ### [dsy-xiaoluo.github.io](https://github.com/XiaoluoFoxington/dsy-xiaoluo.github.io)
 
-vwo-de ua-bizgerrf xc'whzvj, vyi-jyrty-gg le, zuiryizdarto ui'uj, rhl'buzui-ynzwzrmo fh-le Windows Vista Aero, rhr'yrzdu'bu-gk, rsvzbm'kj'kj'jqrxy le. vwozvg'zl xxryizge-xn'de whzvj, zyh'ui uf-me yezbu fh, zdj'yerbuzyk-qizdl, dynzwz wo lj.
+vwo-de ua-bizgerrf xc'whzvj, vyi-jyrty-gg le, zuiryizdarto ui'uj, rhl'buzui-ynzwzrmo fh-le Windows Vista Aero, rhr'yrzdu'bu-gk, rsvzbm'kj'kj'jqrxy le. vwozvg'zl xxryizge-xn'de whzvj, zyh'ui uf-me yezbu fh, zdj'yerbuzyk-qizdl, dynzwz wo'lj.
 
 ### [HOMO14.website](https://github.com/XiaoluoFoxington/HOMO14.website)
 
