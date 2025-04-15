@@ -52,13 +52,11 @@ vwo-de ua-bizgerrf xc'whzvj, vyi-jyrty-gg le, zuiryizdarto ui'uj, rhl'buzui-ynzw
 
 ### [HOMO14.website](https://github.com/XiaoluoFoxington/HOMO14.website)
 
-（待翻译）
+"HOMO14"zui wozzl B zvj'vi'zo-dezjw-kszdm'uirtlzxi'lx'uirpy, zve'ui've'ge'jw-kszdm'uirtl-de whzvj. ryb'yu wo-de 10 rnm-gkrlm bizji bf'yi-jyzht le, zve'ge'xi'lx yerty-gg le. rbuzgo've'ge whzvj-dezyh'ui'ui wozzi ji'xx-de, rmz yb'fhzvk'rfrhr-ds xi, vwo-de'xnzgerrf whzvj yezji'hw uizys've'ge'yh'ui.
 
-“HOMO14”是我在 B 站制作的架空电视台系列视频，这是这个架空电视台的网站。由于我的 10 年高龄笔记本已经坏了，这个系列也停更了。不过这个网站的样式是我自己写的，没有仿照任何东西，我的新个人网站也计划使用这个样式。
+## rlmzxi
 
-## 联系
-
-真的有人会联系我吗（（（
+dvf de'ybrrfzhvrlmzxi wo-ma(((
 
 - [Bilibili：`1561166904`](https://space.bilibili.com/1561166904)
 
