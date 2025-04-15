@@ -36,6 +36,8 @@
 
 <summary>zlo-yu(34)</summary>
 
+孩子在学校显得没事的自创语言。其实大量借用了汉语拼音（（（
+
 ## zjx'uk
 
 diu'vs'uf, vvizhvrqm-dr. dvs'jmzwh le, zhb'mmzwh le, vworcl lj-de xxzve'ge'po jmzjx ne.
