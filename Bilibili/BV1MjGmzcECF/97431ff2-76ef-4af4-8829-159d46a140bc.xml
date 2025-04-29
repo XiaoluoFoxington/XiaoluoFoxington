@@ -1,0 +1,867 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+来自AutSheng (http://www.autsheng.xyz)
+导出: 2025-04-29 08:57 PM
+5.2.0 (1002592)
+a34a6c0 (2024年10月7日 18:17:29)
+-->
+<!-- COPYRIGHT BILIBILI XIAOLUOFOXINGTON -->
+<scene title="FCL使用教程1|下载安装&amp;快速上手" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="283532" fps="30" modifiedTime="1745931429050" amver="1002592" ffver="106" am="com.autsheng.motion/5.2.0" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="amproj:Temple-NOXMU.mp3" filename="Temple-NOXMU.mp3" title="Temple-NOXMU.mp3" type="audio/mpeg" duration="283480816" size="11340487" sig="CCAFFA58FF93C8D8CEFB4542FB55D7B471B98F7A" infoUpdated="1745931417262" />
+  <media uri="amproj:bg.png" filename="bg.png" title="bg.png" type="image/jpeg" size="173529" sig="44B0BBD7E3A7DAEBBBE1B3AEBE98B293189A1642" orientation="0" infoUpdated="1745931417262" width="1920" height="1080" />
+  <media uri="amproj:2025_04_28_22_23_49.mp4" filename="2025_04_28_22_23_49.mp4" title="2025_04_28_22_23_49.mp4" type="video/mp4" duration="64758000" size="33164086" fps="0.51" sig="458AA485E60691F74BBD094B8B9DBBF0E8D96DCF" orientation="0" infoUpdated="1745931417262" width="1080" height="2340" />
+  <media uri="amproj:2025_04_28_22_28_27.mp4" filename="2025_04_28_22_28_27.mp4" title="2025_04_28_22_28_27.mp4" type="video/mp4" duration="174101000" size="78021046" fps="0.23" sig="B72C3EFB40A9E75DE15D921A5B51EE7AE7E72273" orientation="0" infoUpdated="1745931417262" width="2340" height="1080" />
+  <media uri="amproj:2025_04_29_19_52_13.mp4" filename="2025_04_29_19_52_13.mp4" title="2025_04_29_19_52_13.mp4" type="video/mp4" duration="9789000" size="5404454" fps="0.23" sig="37FE7AE599B96C24859236B0AA00A13301D233DE" orientation="0" infoUpdated="1745931417262" width="2340" height="1080" />
+  <media uri="amproj:Temple_exported_1.mp4" filename="Temple_exported_1.mp4" title="Temple_exported_1.mp4" type="video/mp4" duration="45488000" size="27560725" fps="0.30" sig="182B71B0C07050D79CF544FBB46F8160BACB831E" orientation="0" infoUpdated="1745931417262" width="1280" height="720" />
+  <audio id="613" label="Temple-NOXMU.mp3" startTime="0" endTime="283512" src="amproj:Temple-NOXMU.mp3" outTime="283480" mediaFillMode="fill" />
+  <shape id="614" label="bg.png" startTime="0" endTime="134265" fillType="media" fillImage="amproj:bg.png" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <text id="615" startTime="0" endTime="5032" fillType="color" mediaFillMode="fill" size="36.000000" font="imported?name=Minecraft.ttf" wrapWidth="1871" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>FCL使用教程
+1
+
+下载安装&amp;快速上手</content>
+  </text>
+  <text id="616" startTime="0" endTime="5032" fillType="color" mediaFillMode="fill" size="16.000000" font="imported?name=Minecraft.ttf" wrapWidth="1189" align="left">
+    <transform>
+      <location value="600.000000,1026.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>FCL版本：1.2.2.2
+BGM：Temple-NOXMU</content>
+  </text>
+  <shape id="622" label="2025_04_28_22_23_49.mp4" startTime="6000" endTime="28032" fillType="media" fillVideo="amproj:2025_04_28_22_23_49.mp4" outTime="22032" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.031000" v="600.000000,540.000000,0.000000" />
+        <kf t="0.046115" v="600.000000,-300.000000,0.000000" e="cubicBezier 1.0 0.0 0.0 1.0" />
+        <kf t="0.431917" v="600.000000,-300.000000,0.000000" />
+        <kf t="0.447077" v="600.000000,1200.000000,0.000000" e="cubicBezier 1.0 0.0 0.0 1.0" />
+        <kf t="0.802605" v="600.000000,1200.000000,0.000000" />
+        <kf t="0.817720" v="600.000000,540.000000,0.000000" e="cubicBezier 1.0 0.0 0.0 1.0" />
+      </location>
+      <scale value="2.166667,2.166667" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.000000" />
+    </effect>
+    <property name="size" type="vec2" value="249.000000,540.000000" />
+  </shape>
+  <text id="623" startTime="6000" endTime="9032" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="747" align="left">
+    <transform>
+      <location value="1525.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="0.000000" />
+      <offset value="4.000000,4.000000" />
+    </shadow>
+    <content>打开你的浏览器</content>
+  </text>
+  <text id="626" startTime="9000" endTime="15532" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="747" align="left">
+    <transform>
+      <location value="1525.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="0.000000" />
+      <offset value="4.000000,4.000000" /><!-- COPYRIGHT BILIBILI XIAOLUOFOXINGTON -->
+    </shadow>
+    <content>输入
+“foldcraftlauncher.cn”</content>
+  </text>
+  <text id="627" startTime="15500" endTime="18532" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="747" align="left">
+    <transform>
+      <location value="1525.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="0.000000" />
+      <offset value="4.000000,4.000000" />
+    </shadow>
+    <content>进入UP搭建的下载站</content>
+  </text>
+  <shape id="629" label="长方形 1" startTime="19000" endTime="22765" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="254.500061,487.500000,0.000000" />
+      <opacity value="0.498047" />
+    </transform>
+    <fillColor value="#ffffff00" />
+    <effect id="com.alightcreative.effects.pulseopacity2" locallyApplied="true">
+      <property name="freq" type="float" value="2.000000" />
+      <property name="strength" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="140.000000,30.000000" />
+  </shape>
+  <text id="630" startTime="19000" endTime="22765" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="747" align="left">
+    <transform>
+      <location value="1525.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="0.000000" />
+      <offset value="4.000000,4.000000" />
+    </shadow>
+    <content>点击“跳转至下载页面”</content>
+  </text>
+  <shape id="632" label="2025_04_28_22_23_49.mp4" startTime="28016" endTime="30532" fillType="media" fillVideo="amproj:2025_04_28_22_23_49.mp4" inTime="35666" outTime="38182" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location>
+        <kf t="-13.904213" v="600.000000,540.000000,0.000000" />
+        <kf t="-13.771860" v="600.000000,-300.000000,0.000000" e="cubicBezier 1.0 0.0 0.0 1.0" />
+        <kf t="-10.393481" v="600.000000,-300.000000,0.000000" />
+        <kf t="-10.260731" v="600.000000,1200.000000,0.000000" e="cubicBezier 1.0 0.0 0.0 1.0" />
+        <kf t="-7.147456" v="600.000000,1200.000000,0.000000" />
+        <kf t="-7.015103" v="600.000000,540.000000,0.000000" e="cubicBezier 1.0 0.0 0.0 1.0" />
+      </location>
+      <scale value="2.166667,2.166667" />
+    </transform><!-- COPYRIGHT BILIBILI XIAOLUOFOXINGTON -->
+    <property name="size" type="vec2" value="249.000000,540.000000" />
+  </shape>
+  <shape id="633" label="2025_04_28_22_23_49.mp4" startTime="29016" endTime="44699" fillType="media" fillVideo="amproj:2025_04_28_22_23_49.mp4" inTime="38150" outTime="53833" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location>
+        <kf t="-2.389020" v="600.000000,540.000000,0.000000" />
+        <kf t="-2.367787" v="600.000000,-300.000000,0.000000" e="cubicBezier 1.0 0.0 0.0 1.0" />
+        <kf t="-1.825799" v="600.000000,-300.000000,0.000000" />
+        <kf t="-1.804501" v="600.000000,1200.000000,0.000000" e="cubicBezier 1.0 0.0 0.0 1.0" />
+        <kf t="-1.305044" v="600.000000,1200.000000,0.000000" />
+        <kf t="-1.283811" v="600.000000,540.000000,0.000000" e="cubicBezier 1.0 0.0 0.0 1.0" />
+        <kf t="0.573870" v="600.000000,540.000000,0.000000" />
+        <kf t="0.595166" v="600.000000,109.500000,0.000000" e="cubicBezier 1.0 0.0 0.0 1.0" />
+      </location>
+      <scale value="2.166667,2.166667" />
+    </transform>
+    <property name="size" type="vec2" value="249.000000,540.000000" />
+  </shape>
+  <text id="631" startTime="25000" endTime="28032" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="747" align="left">
+    <transform>
+      <location value="1525.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="0.000000" />
+      <offset value="4.000000,4.000000" />
+    </shadow>
+    <content>按照提示回答问题</content>
+  </text>
+  <shape id="635" label="长方形 1" startTime="32000" endTime="37732" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="600.000000,307.000000,0.000000" />
+      <opacity value="0.498047" />
+    </transform>
+    <fillColor value="#ffffff00" />
+    <effect id="com.alightcreative.effects.pulseopacity2" locallyApplied="true">
+      <property name="freq" type="float" value="2.000000" />
+      <property name="strength" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="450.000000,200.000000" />
+  </shape>
+  <text id="634" startTime="32000" endTime="37732" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="747" align="left">
+    <transform>
+      <location value="1525.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="0.000000" />
+      <offset value="4.000000,4.000000" />
+    </shadow>
+    <content>在这里按照提示下载符合自己手机架构的FCL安装包</content>
+  </text>
+  <shape id="636" label="长方形 1" startTime="38666" endTime="44398" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="600.000000,526.500000,0.000000" />
+      <opacity value="0.498047" />
+    </transform>
+    <fillColor value="#ffffff00" />
+    <effect id="com.alightcreative.effects.pulseopacity2" locallyApplied="true">
+      <property name="freq" type="float" value="2.000000" />
+      <property name="strength" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="450.000000,430.000000" />
+  </shape>
+  <text id="637" startTime="38666" endTime="44398" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="747" align="left">
+    <transform>
+      <location value="1525.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="0.000000" />
+      <offset value="4.000000,4.000000" />
+    </shadow>
+    <content>在这里按照提示下载渲染器（这里以MG为例）</content>
+  </text>
+  <shape id="638" label="2025_04_28_22_23_49.mp4" startTime="44683" endTime="49699" fillType="media" fillVideo="amproj:2025_04_28_22_23_49.mp4" inTime="58467" outTime="63483" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="600.000000,1400.000000,0.000000" />
+      <scale value="2.166667,2.166667" />
+    </transform>
+    <property name="size" type="vec2" value="249.000000,540.000000" />
+  </shape>
+  <shape id="641" label="2025_04_28_22_28_27.mp4" startTime="49683" endTime="71599" fillType="media" fillVideo="amproj:2025_04_28_22_28_27.mp4" inTime="1500" outTime="23416" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,440.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,443.000000" />
+  </shape>
+  <text id="639" startTime="45000" endTime="48032" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="747" align="left">
+    <transform>
+      <location value="1525.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="0.000000" /><!-- COPYRIGHT BILIBILI XIAOLUOFOXINGTON -->
+      <offset value="4.000000,4.000000" />
+    </shadow>
+    <content>下载完成后全部安装</content>
+  </text>
+  <text id="640" startTime="48000" endTime="51032" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="747" align="left">
+    <transform>
+      <location>
+        <kf t="0.555079" v="1525.000000,540.000000,0.000000" />
+        <kf t="0.664908" v="1018.000000,978.000000,0.000000" e="cubicBezier 1.0 0.0 0.0 1.0" />
+      </location>
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="0.000000" />
+      <offset value="4.000000,4.000000" />
+    </shadow>
+    <content>安装成功后打开FCL，首次打开需要安装运行环境，耐心等待即可</content>
+  </text>
+  <shape id="643" label="长方形 1" startTime="51000" endTime="52832" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="1681.500000,395.000000,0.000000" />
+      <opacity value="0.498047" />
+    </transform>
+    <fillColor value="#ffffff00" />
+    <effect id="com.alightcreative.effects.pulseopacity2" locallyApplied="true">
+      <property name="freq" type="float" value="2.000000" />
+      <property name="strength" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <text id="642" startTime="51000" endTime="54032" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,975.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>点击右侧头像添加账户</content>
+  </text>
+  <shape id="644" label="长方形 1" startTime="54333" endTime="59232" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="297.000000,461.500000,0.000000" />
+      <opacity value="0.498047" />
+    </transform>
+    <fillColor value="#ffffff00" />
+    <effect id="com.alightcreative.effects.pulseopacity2" locallyApplied="true">
+      <property name="freq" type="float" value="2.000000" />
+      <property name="strength" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="183.000000,413.000000" />
+  </shape>
+  <text id="645" startTime="54333" endTime="59232" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,975.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>左侧列出了可以添加的账户的类型</content>
+  </text>
+  <text id="652" startTime="59166" endTime="65699" fillType="color" mediaFillMode="fill" size="16.000000" font="imported?name=Minecraft.ttf" wrapWidth="1189" align="left">
+    <transform>
+      <location value="600.000000,1026.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="3.000000" />
+      <property name="outTime" type="float" value="0.500000" /><!-- COPYRIGHT BILIBILI XIAOLUOFOXINGTON -->
+    </effect>
+    <content>FCL版本：1.2.2.2
+BGM：Temple-NOXMU</content>
+  </text>
+  <shape id="646" label="2025_04_28_22_28_27.mp4" startTime="65983" endTime="82765" fillType="media" fillVideo="amproj:2025_04_28_22_28_27.mp4" inTime="23383" outTime="40165" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,440.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,443.000000" />
+  </shape>
+  <shape id="647" label="2025_04_28_22_28_27.mp4" startTime="71050" endTime="103432" fillType="media" fillVideo="amproj:2025_04_28_22_28_27.mp4" inTime="40133" outTime="72515" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,440.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,443.000000" />
+  </shape>
+  <text id="648" startTime="65666" endTime="70565" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,975.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>这一堆按钮的功能以后UP会单独出教程</content>
+  </text>
+  <text id="649" startTime="72666" endTime="77565" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,975.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>如果购买了正版可以使用微软帐户登录</content>
+  </text>
+  <text id="654" startTime="78000" endTime="117032" fillType="color" mediaFillMode="fill" size="16.000000" font="imported?name=Minecraft.ttf" wrapWidth="1189" align="left">
+    <transform>
+      <location value="600.000000,1026.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="3.000000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>FCL版本：1.2.2.2
+BGM：Temple-NOXMU</content>
+  </text>
+  <shape id="651" label="2025_04_28_22_28_27.mp4" startTime="95800" endTime="182032" fillType="media" fillVideo="amproj:2025_04_28_22_28_27.mp4" inTime="72483" outTime="158715" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,440.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,443.000000" />
+  </shape>
+  <text id="653" startTime="117000" endTime="119032" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,975.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>接下来修改设置</content>
+  </text>
+  <shape id="655" label="长方形 1" startTime="119333" endTime="122032" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="40.500000,645.000000,0.000000" />
+      <opacity value="0.498047" />
+    </transform>
+    <fillColor value="#ffffff00" />
+    <effect id="com.alightcreative.effects.pulseopacity2" locallyApplied="true">
+      <property name="freq" type="float" value="2.000000" />
+      <property name="strength" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="50.000000,50.000000" />
+  </shape>
+  <text id="656" startTime="119333" endTime="122032" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,975.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true"><!-- COPYRIGHT BILIBILI XIAOLUOFOXINGTON -->
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>点击左侧的“设置”图标</content>
+  </text>
+  <text id="660" startTime="122000" endTime="124699" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,975.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>请注意，此教程中不会讲得过于详细。关于设置，以后UP会单独出教程</content>
+  </text>
+  <shape id="657" label="长方形 1" startTime="125000" endTime="129765" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="761.000000,148.000000,0.000000" />
+      <opacity value="0.498047" />
+    </transform>
+    <fillColor value="#ffffff00" />
+    <effect id="com.alightcreative.effects.pulseopacity2" locallyApplied="true">
+      <property name="freq" type="float" value="2.000000" />
+      <property name="strength" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="660.000000,35.000000" />
+  </shape>
+  <text id="658" startTime="125000" endTime="129765" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,975.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>“Java版本”：运行MC使用的Java版本。自动选择即可</content>
+  </text>
+  <shape id="661" label="长方形 1" startTime="134333" endTime="139098" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="761.000000,241.000000,0.000000" />
+      <opacity value="0.498047" />
+    </transform>
+    <fillColor value="#ffffff00" />
+    <effect id="com.alightcreative.effects.pulseopacity2" locallyApplied="true">
+      <property name="freq" type="float" value="2.000000" />
+      <property name="strength" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="660.000000,35.000000" />
+  </shape>
+  <text id="662" startTime="134333" endTime="139098" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,975.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>“版本隔离”：隔离不同MC版本中的世界、资源包等资源。建议打开</content>
+  </text>
+  <shape id="663" label="长方形 1" startTime="139666" endTime="144431" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="761.000000,440.000000,0.000000" />
+      <opacity value="0.498047" />
+    </transform>
+    <fillColor value="#ffffff00" />
+    <effect id="com.alightcreative.effects.pulseopacity2" locallyApplied="true">
+      <property name="freq" type="float" value="2.000000" />
+      <property name="strength" type="float" value="1.000000" /><!-- COPYRIGHT BILIBILI XIAOLUOFOXINGTON -->
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="660.000000,130.000000" />
+  </shape>
+  <text id="664" startTime="139666" endTime="144431" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,975.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>“游戏内存”：为MC分配的内存，越多越好，不知道的无脑自动</content>
+  </text>
+  <shape id="666" label="长方形 1" startTime="145000" endTime="151832" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="761.000000,623.000000,0.000000" />
+      <opacity value="0.498047" />
+    </transform>
+    <fillColor value="#ffffff00" />
+    <effect id="com.alightcreative.effects.pulseopacity2" locallyApplied="true">
+      <property name="freq" type="float" value="2.000000" />
+      <property name="strength" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="660.000000,35.000000" />
+  </shape>
+  <text id="667" startTime="145000" endTime="151832" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,975.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>“窗口分辨率”：较低的值可以显著提升帧率，但会使游戏画面模糊。建议整分数倍（50%，33%，25%），否则有锯齿</content>
+  </text>
+  <shape id="668" label="长方形 1" startTime="153333" endTime="159065" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.956560" v="761.000000,405.000000,0.000000" />
+        <kf t="0.950803" v="761.000000,395.000000,0.000000" />
+        <kf t="0.962491" v="761.000000,470.000000,0.000000" />
+        <kf t="0.968248" v="761.000000,496.500000,0.000000" />
+        <kf t="0.974006" v="761.000000,587.000000,0.000000" />
+        <kf t="0.979937" v="761.000000,579.500000,0.000000" />
+        <kf t="0.985694" v="761.000000,748.000000,0.000000" />
+      </location>
+      <opacity value="0.498047" />
+    </transform>
+    <fillColor value="#ffffff00" />
+    <effect id="com.alightcreative.effects.pulseopacity2" locallyApplied="true">
+      <property name="freq" type="float" value="2.000000" />
+      <property name="strength" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="660.000000,35.000000" />
+  </shape>
+  <text id="669" startTime="153333" endTime="159065" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,975.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>“控制”：设置默认的控制布局，可以自己制作，也可以下载别人制作的</content>
+  </text>
+  <text id="691" startTime="159000" endTime="165533" fillType="color" mediaFillMode="fill" size="16.000000" font="imported?name=Minecraft.ttf" wrapWidth="1189" align="left">
+    <transform>
+      <location value="600.000000,1026.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="3.000000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>FCL版本：1.2.2.2
+BGM：Temple-NOXMU</content>
+  </text>
+  <text id="670" startTime="166000" endTime="170032" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,975.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>这些还是以后讲（）
+没看见标题中的“快速上手”吗[doge]</content>
+  </text>
+  <shape id="671" label="长方形 1" startTime="170333" endTime="177165" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="761.000000,314.000000,0.000000" />
+      <opacity value="0.498047" />
+    </transform>
+    <fillColor value="#ffffff00" />
+    <effect id="com.alightcreative.effects.pulseopacity2" locallyApplied="true">
+      <property name="freq" type="float" value="2.000000" />
+      <property name="strength" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" /><!-- COPYRIGHT BILIBILI XIAOLUOFOXINGTON -->
+      <property name="type" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="660.000000,35.000000" />
+  </shape>
+  <text id="672" startTime="170333" endTime="177165" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,975.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>“渲染器”：好的渲染器能提升性能甚至启用光影。推荐MG（就是前面下载那个），需要注意MG只支持1.17以上版本</content>
+  </text>
+  <shape id="674" label="2025_04_28_22_28_27.mp4" startTime="178016" endTime="192365" fillType="media" fillVideo="amproj:2025_04_28_22_28_27.mp4" inTime="158683" outTime="173032" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,440.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,443.000000" />
+  </shape>
+  <text id="673" startTime="178000" endTime="184832" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,975.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>至此就大致设置完了。接下来打开下载页面下载一个游戏版本</content>
+  </text>
+  <shape id="675" label="长方形 1" startTime="185333" endTime="188032" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="40.500000,370.500000,0.000000" />
+      <opacity value="0.498047" />
+    </transform>
+    <fillColor value="#ffffff00" />
+    <effect id="com.alightcreative.effects.pulseopacity2" locallyApplied="true">
+      <property name="freq" type="float" value="2.000000" />
+      <property name="strength" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="50.000000,50.000000" />
+  </shape>
+  <text id="676" startTime="185333" endTime="188032" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,975.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>点击打开下载页面</content>
+  </text>
+  <shape id="678" label="2025_04_28_22_28_27.mp4" startTime="192333" endTime="204799" fillType="media" fillVideo="amproj:2025_04_28_22_28_27.mp4" inTime="173000" outTime="182269" speed="0.001000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,440.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,443.000000" />
+  </shape>
+  <shape id="677" label="长方形 1" startTime="189333" endTime="195132" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="761.000000,52.500000,0.000000" />
+      <opacity value="0.498047" />
+    </transform>
+    <fillColor value="#ffffff00" />
+    <effect id="com.alightcreative.effects.pulseopacity2" locallyApplied="true">
+      <property name="freq" type="float" value="2.000000" />
+      <property name="strength" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="660.000000,35.000000" />
+  </shape>
+  <text id="679" startTime="189333" endTime="195132" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,975.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>这里可以下载游戏版本、整合包、模组等等游戏资源</content>
+  </text>
+  <shape id="680" label="长方形 1" startTime="195666" endTime="199465" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="761.000000,151.000000,0.000000" />
+      <opacity value="0.498047" />
+    </transform>
+    <fillColor value="#ffffff00" />
+    <effect id="com.alightcreative.effects.pulseopacity2" locallyApplied="true">
+      <property name="freq" type="float" value="2.000000" />
+      <property name="strength" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="660.000000,35.000000" />
+  </shape>
+  <text id="681" startTime="195666" endTime="199465" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,975.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>这里可以筛选，快速找到想要下载的版本</content>
+  </text>
+  <shape id="682" label="2025_04_29_19_52_13.mp4" startTime="200016" endTime="201465" fillType="media" fillVideo="amproj:2025_04_29_19_52_13.mp4" inTime="2633" outTime="4082" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,440.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,443.000000" />
+  </shape>
+  <shape id="683" label="2025_04_29_19_52_13.mp4" startTime="201433" endTime="217032" fillType="media" fillVideo="amproj:2025_04_29_19_52_13.mp4" inTime="4050" outTime="5065" speed="0.001000" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,440.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.000000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="960.000000,443.000000" />
+  </shape>
+  <shape id="684" label="长方形 1" startTime="201666" endTime="205465" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="720.000000,154.000000,0.000000" />
+      <opacity value="0.498047" />
+    </transform>
+    <fillColor value="#ffffff00" />
+    <effect id="com.alightcreative.effects.pulseopacity2" locallyApplied="true">
+      <property name="freq" type="float" value="2.000000" />
+      <property name="strength" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect><!-- COPYRIGHT BILIBILI XIAOLUOFOXINGTON -->
+    <property name="size" type="vec2" value="615.000000,35.000000" />
+  </shape>
+  <text id="685" startTime="201666" endTime="205465" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,975.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>这里可以为下载的版本命名</content>
+  </text>
+  <shape id="686" label="长方形 1" startTime="206000" endTime="210799" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="761.000000,534.000000,0.000000" />
+      <opacity value="0.498047" />
+    </transform>
+    <fillColor value="#ffffff00" />
+    <effect id="com.alightcreative.effects.pulseopacity2" locallyApplied="true">
+      <property name="freq" type="float" value="2.000000" />
+      <property name="strength" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="660.000000,319.000000" />
+  </shape>
+  <text id="687" startTime="206000" endTime="210799" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,975.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>这里可以为下载的版本安装模组加载器、光影加载器
+（以后还是会讲）</content>
+  </text>
+  <shape id="688" label="长方形 1" startTime="211333" endTime="215132" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="1374.500000,154.000000,0.000000" />
+      <opacity value="0.498047" />
+    </transform>
+    <fillColor value="#ffffff00" />
+    <effect id="com.alightcreative.effects.pulseopacity2" locallyApplied="true">
+      <property name="freq" type="float" value="2.000000" />
+      <property name="strength" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="35.000000,35.000000" />
+  </shape>
+  <text id="689" startTime="211333" endTime="215132" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,975.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>点击此按钮开始下载安装</content>
+  </text>
+  <text id="692" startTime="218000" endTime="223000" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>课后习题：
+
+此教程一共挖了多少坑？（11.4514分）</content>
+  </text>
+  <text id="693" startTime="223000" endTime="228000" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>COPYRIGHT
+
+2025/04/29 20:07
+XIAOLUOFOXINGTON
+BILIBILI VIDEO</content>
+  </text>
+  <text id="695" startTime="228000" endTime="233000" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>试用一下UP制作的FCL控制布局吧awa
+叫“‘键’易布局”
+在布局下载列表中就能找到qqqqqqqwq</content>
+  </text>
+  <text id="694" startTime="233000" endTime="238000" fillType="color" mediaFillMode="fill" size="24.000000" font="imported?name=Minecraft.ttf" wrapWidth="1929" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>对FCL控制布局制作感兴趣的
+可以进入我的主页看看我制作的教程qwq</content>
+  </text>
+  <shape id="696" label="Temple_exported_1.mp4" startTime="238000" endTime="283520" fillType="media" fillVideo="amproj:Temple_exported_1.mp4" outTime="45488" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="0.666667,0.666667" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wipe2" locallyApplied="true">
+      <property name="start" type="float" value="0.000000" /><!-- COPYRIGHT BILIBILI XIAOLUOFOXINGTON -->
+      <property name="end" type="float" value="0.500000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="feather" type="float" value="25.000000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <text id="690" startTime="215000" endTime="283532" fillType="color" mediaFillMode="fill" size="16.000000" font="imported?name=Minecraft.ttf" wrapWidth="1189" align="left">
+    <transform>
+      <location value="600.000000,1026.000000,0.000000" />
+    </transform><!-- COPYRIGHT BILIBILI XIAOLUOFOXINGTON -->
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="3.000000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <content>FCL版本：1.2.2.2
+BGM：Temple-NOXMU</content>
+  </text>
+</scene>
+<!-- COPYRIGHT BILIBILI XIAOLUOFOXINGTON -->
