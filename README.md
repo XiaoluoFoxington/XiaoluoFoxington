@@ -30,13 +30,13 @@
 
 - [QQ：`2046665121`](https://qm.qq.com/q/7FcjsxM6zK)
 
+下面是孩子在学校闲得没事的自创语言。其实大量借用了汉语拼音（（（
+
 </details>
 
 <details>
 
 <summary>zlo-yu(34)</summary>
-
-孩子在学校闲得没事的自创语言。其实大量借用了汉语拼音（（（
 
 ## zjx'uk
 
