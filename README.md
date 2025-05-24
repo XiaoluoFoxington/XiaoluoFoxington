@@ -10,7 +10,7 @@
 
 ## 仓库
 
-### [FCL.website](https://github.com/fcl-docs/FCL.website)
+### [FCL.website.mdui](https://github.com/XiaoluoFoxington/FCL.website.mdui)
 
 我为 [《Fold Craft Launcher》](https://github.com/FCL-Team/FoldCraftLauncher) 制作的下载站。可以在这里下载到最新发行版。
 
@@ -30,8 +30,6 @@
 
 - [QQ：`2046665121`](https://qm.qq.com/q/7FcjsxM6zK)
 
-下面是孩子在学校闲得没事的自创语言。其实大量借用了汉语拼音（（（
-
 </details>
 
 <details>
@@ -44,7 +42,7 @@ diu'vs'uf, vvizhvrqm-dr. dvs'jmzwh le, zhb'mmzwh le, vworcl lj-de xxzve'ge'po jm
 
 ## dchzku
 
-### [FCL.website](https://github.com/fcl-docs/FCL.website)
+### [FCL.website.mdui](https://github.com/XiaoluoFoxington/FCL.website.mdui)
 
 vwozwz [《Fold Craft Launcher》](https://github.com/FCL-Team/FoldCraftLauncher) zvi'zo-dezxw zlzvj. rke yizzl've lizxw zlzdk'zv-xn bj.
 
@@ -54,7 +52,7 @@ vwo-de ua-bizgerrf xc'whzvj, vyi-jyrty-gg le, zuiryizdarto ui'uj, rhl'buzui-ynzw
 
 ### [HOMO14.website](https://github.com/XiaoluoFoxington/HOMO14.website)
 
-"HOMO14"zui wozzl B zvj'vi'zo-dezjw-kszdm'uirtlzxi'lx'uirpy, zve'ui've'ge'jw-kszdm'uirtl-de whzvj. ryb'yu wo-de 10 rnm-gkrlm bizji bf'yi-jyzht le, zve'ge'xi'lx yerty-gg le. rbuzgo've'ge whzvj-dezyh'ui'ui wozzi ji'xx-de, rmz yb'fhzvk'rfrhr-ds xi, vwo-de'xnzgerrf whzvj yezji'hw uizys've'ge'yh'ui.
+"HOMO14"zui wozzl Bilibili zvi'zo-dezjw-kszdm'uirtlzxi'lx'uirpy, zve'ui've'ge'jw-kszdm'uirtl-de whzvj. ryb'yu wo-de 10 rnm-gkrlm bizji bf'yi-jyzht le, zve'ge'xi'lx yerty-gg le. rbuzgo've'ge whzvj-dezyh'ui'ui wozzi ji'xx-de, rmz yb'fhzvk'rfrhr-ds xi, vwo-de'xnzgerrf whzvj yezji'hw uizys've'ge'yh'ui.
 
 ## rlmzxi
 
@@ -76,7 +74,7 @@ A junior high student who only knows front-end. Forgot the middle part, forgot t
 
 ## Repositories
 
-### [FCL.website](https://github.com/fcl-docs/FCL.website)
+### [FCL.website.mdui](https://github.com/XiaoluoFoxington/FCL.website.mdui)
 
 A download site I created for [《Fold Craft Launcher》](https://github.com/FCL-Team/FoldCraftLauncher). Get the latest releases here.
 
