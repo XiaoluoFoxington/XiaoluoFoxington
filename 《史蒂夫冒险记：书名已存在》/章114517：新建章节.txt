@@ -50,11 +50,11 @@ XiaoQing和BiYeeeeeeeX传送走了。
 史蒂夫传到主城，开始寻找犽之谷的广告。
 可是，史蒂夫讲广告墙上的广告都看完了，竟然没有。
 史蒂夫：“好好好，那我直接传送。”
-史蒂夫掏出一张纸，写上：“/tp res yazhigu”
+史蒂夫掏出一张纸，写上：“/res tp yazhigu”
 纸掉了下来。
 史蒂夫：“不对？试试英语。”
-“/tp res valleyofya”
+“/res tp valleyofya”
 掉了下来。
-“/tp res yavalley”
+“/res tp yavalley”
 还是掉了下来。
 史蒂夫：“我去？这个村庄是不是满人了啊。”
