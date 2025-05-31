@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+COPYRIGHT XIAOLUOFOXINGTON BILIBILIUID1561166904
+来自AutSheng (http://www.autsheng.xyz)
+导出: 2025-06-01 02:04 AM
+5.2.3 (1002592)
+a34a6c0 (2024年10月7日 18:17:29)
+-->
+<scene title="FCL下载站！高速直链，告别网盘！告别连不上GitHub！" width="1080" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="17032" fps="30" modifiedTime="1748714689392" amver="1002592" ffver="106" am="com.autsheng.motion/5.2.3" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="amproj:Solo Dance (Original Clean Mix)-Martin Jensen.mp3" filename="Solo Dance (Original Clean Mix)-Martin Jensen.mp3" title="Solo Dance (Original Clean Mix)-Martin Jensen.mp3" type="audio/mpeg" duration="173270204" size="6931980" sig="5296C78178B7730E4DDE378C23321FC54BC846BC" infoUpdated="1748714687079" />
+  <media uri="amproj:Screenshot_20250601_004021.jpg" filename="Screenshot_20250601_004021.jpg" title="Screenshot_20250601_004021.jpg" type="image/jpeg" size="250336" sig="735C3D46C40257E5B2C780F561446E8C34CDB096" orientation="0" infoUpdated="1748714687079" width="1080" height="2340" />
+  <media uri="amproj:1748712900099.png" filename="1748712900099.png" title="1748712900099.png" type="image/png" size="124066" sig="9E2CA1C584B4005EB7AFF0DEC932753D02280928" orientation="0" infoUpdated="1748714687079" width="1080" height="2340" />
+  <media uri="amproj:Screenshot_20250601_014142.jpg" filename="Screenshot_20250601_014142.jpg" title="Screenshot_20250601_014142.jpg" type="image/jpeg" size="270172" sig="57185B776B77D2EE2F013A10210E8927CF6CAE23" orientation="0" infoUpdated="1748714687079" width="1080" height="2340" />
+  <media uri="amproj:Screenshot_20250601_014432.jpg" filename="Screenshot_20250601_014432.jpg" title="Screenshot_20250601_014432.jpg" type="image/jpeg" size="310246" sig="E8EC7C7B729FC7BE1A94DCEC8DAC4F04AD6227B3" orientation="0" infoUpdated="1748714687079" width="1080" height="2340" />
+  <media uri="amproj:Screenshot_20250601_014709.jpg" filename="Screenshot_20250601_014709.jpg" title="Screenshot_20250601_014709.jpg" type="image/jpeg" size="234534" sig="78029FC01D5A320166F1D415ECB899D5269828C9" orientation="0" infoUpdated="1748714687079" width="1080" height="2340" />
+  <audio id="714" label="Solo Dance (Original Clean Mix)-Martin Jensen.mp3" startTime="0" endTime="17032" src="amproj:Solo Dance (Original Clean Mix)-Martin Jensen.mp3" inTime="51219" outTime="68251" mediaFillMode="fill">
+    <gain>
+      <kf t="-0.028535" v="0.250000" />
+      <kf t="-0.204671" v="0.000000" /><!-- COPYRIGHT XIAOLUOFOXINGTON BILIBILIUID1561166904 -->
+      <kf t="0.000939" v="0.000000" />
+      <kf t="0.177082" v="0.100000" />
+      <kf t="0.999061" v="0.000000" />
+      <kf t="0.881635" v="0.100000" />
+    </gain>
+  </audio>
+  <shape id="725" label="Screenshot_20250601_004021.jpg" startTime="0" endTime="3532" fillType="media" fillImage="amproj:Screenshot_20250601_004021.jpg" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="540.000000,1098.000000,0.000000" />
+      <scale value="2.166667,2.166667" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="249.000000,540.000000" />
+  </shape>
+  <shape id="727" label="1748712900099.png" startTime="3000" endTime="6532" fillType="media" fillImage="amproj:1748712900099.png" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="540.000000,1170.000000,0.000000" />
+      <scale value="2.166667,2.166667" />
+    </transform><!-- COPYRIGHT XIAOLUOFOXINGTON BILIBILIUID1561166904 -->
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="249.000000,540.000000" />
+  </shape>
+  <shape id="729" label="Screenshot_20250601_014142.jpg" startTime="6000" endTime="9532" fillType="media" fillImage="amproj:Screenshot_20250601_014142.jpg" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="540.000000,540.000000,0.000000" />
+      <scale value="2.166667,2.166667" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="249.000000,540.000000" />
+  </shape>
+  <shape id="731" label="Screenshot_20250601_014432.jpg" startTime="9000" endTime="12532" fillType="media" fillImage="amproj:Screenshot_20250601_014432.jpg" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="540.000000,750.000000,0.000000" />
+      <scale value="2.166667,2.166667" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="249.000000,540.000000" />
+  </shape>
+  <shape id="733" label="Screenshot_20250601_014709.jpg" startTime="12000" endTime="15532" fillType="media" fillImage="amproj:Screenshot_20250601_014709.jpg" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="540.000000,800.000000,0.000000" />
+      <scale value="2.166667,2.166667" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="249.000000,540.000000" />
+  </shape>
+  <text id="726" startTime="0" endTime="3532" fillType="color" mediaFillMode="fill" size="36.000000" font="imported?name=unifont-15.0.06.ttf" wrapWidth="1079" align="center">
+    <transform>
+      <location value="540.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" /><!-- COPYRIGHT XIAOLUOFOXINGTON BILIBILIUID1561166904 -->
+    </effect>
+    <shadow direction="outside">
+      <size value="0.000000" />
+      <offset value="7.000000,7.000000" />
+    </shadow>
+    <content>UP自建FCL下载站</content>
+  </text>
+  <text id="728" startTime="3000" endTime="6532" fillType="color" mediaFillMode="fill" size="36.000000" font="imported?name=unifont-15.0.06.ttf" wrapWidth="1079" align="center">
+    <transform>
+      <location value="540.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="0.000000" />
+      <offset value="7.000000,7.000000" />
+    </shadow>
+    <content>不限速！</content>
+  </text>
+  <text id="730" startTime="6000" endTime="9532" fillType="color" mediaFillMode="fill" size="36.000000" font="imported?name=unifont-15.0.06.ttf" wrapWidth="1079" align="center">
+    <transform>
+      <location value="540.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="0.000000" />
+      <offset value="7.000000,7.000000" />
+    </shadow>
+    <content>多架构！</content><!-- COPYRIGHT XIAOLUOFOXINGTON BILIBILIUID1561166904 -->
+  </text>
+  <text id="732" startTime="9000" endTime="12532" fillType="color" mediaFillMode="fill" size="36.000000" font="imported?name=unifont-15.0.06.ttf" wrapWidth="1079" align="center">
+    <transform>
+      <location value="540.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="0.000000" />
+      <offset value="7.000000,7.000000" /><!-- COPYRIGHT XIAOLUOFOXINGTON BILIBILIUID1561166904 -->
+    </shadow>
+    <content>同时提供渲染器！</content>
+  </text>
+  <text id="734" startTime="12000" endTime="15532" fillType="color" mediaFillMode="fill" size="36.000000" font="imported?name=unifont-15.0.06.ttf" wrapWidth="1079" align="center">
+    <transform>
+      <location value="540.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="0.000000" />
+      <offset value="7.000000,7.000000" />
+    </shadow>
+    <content>校验码！</content>
+  </text>
+  <text id="736" startTime="0" endTime="17032" fillType="color" mediaFillMode="fill" size="18.000000" font="imported?name=unifont-15.0.06.ttf" wrapWidth="902" align="left">
+    <transform>
+      <location value="451.500000,1048.000000,0.000000" />
+    </transform>
+    <shadow direction="outside">
+      <size value="0.000000" /><!-- COPYRIGHT XIAOLUOFOXINGTON BILIBILIUID1561166904 -->
+      <offset value="4.000000,4.000000" />
+    </shadow>
+    <content>省流：网址在置顶评论</content>
+  </text>
+</scene>
