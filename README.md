@@ -27,13 +27,11 @@
 真的有人会联系我吗（（（
 
 - [B 站：`1561166904`](https://space.bilibili.com/1561166904)
-
 - [QQ：`2046665121`](https://qm.qq.com/q/7FcjsxM6zK)
 
 ##
 
 版本：2
-
 日期：2025年6月3日
 
 </details>
@@ -66,13 +64,11 @@ vwo-de ua-bizgerrf xc'whzvj, vyi-jyrty-gg le, zuiryizdarto ui'uj, dynzwzrmo fh-l
 dvf de'ybrrfzhvrlmzxi wo-ma(((
 
 - [Bilibili：`1561166904`](https://space.bilibili.com/1561166904)
-
 - [QQ：`2046665121`](https://qm.qq.com/q/7FcjsxM6zK)
 
 ##
 
 rbj bf: 2
-
 zri-qi: zri3zyt6rnm2025zgsryr
 
 </details>
