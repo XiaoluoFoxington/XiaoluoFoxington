@@ -32,6 +32,7 @@
 ##
 
 版本：2
+
 日期：2025年6月3日
 
 </details>
@@ -105,7 +106,8 @@ Will anyone actually contact me? lol
 
 ##
 
-Version: 2  
+Version: 2
+
 Date: June 3, 2025
 
 </details>
