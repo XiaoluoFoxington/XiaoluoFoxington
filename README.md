@@ -1,6 +1,6 @@
 # XiaoluoFoxington Profile README
 
-<details>
+<details open>
 
 <summary>中文(简体)</summary>
 
