@@ -6,7 +6,7 @@
 
 ## 介绍
 
-初三生，半furry，一堆怪癖，成分复杂。只会前端。中间忘了，后面忘了，我才懒得写这个破介绍呢。
+初三学生。是个furry，但不混圈。一堆怪癖，成分复杂。只会前端。中间忘了，后面忘了，我才懒得写这个破介绍呢。
 
 ## 仓库
 
@@ -31,9 +31,9 @@
 
 ##
 
-版本：2
+版本：3
 
-日期：2025年6月3日
+日期：2025年6月6日
 
 </details>
 
@@ -43,7 +43,7 @@
 
 ## zjx'uk
 
-diu'sj'ug, zbj furry, ryi-dvzgr'pi, vvizhvrqm-dr. dvs'jmzwh-le, zhb'mmzwh-le, vworcl lj-de xxzve'ge'po jmzjx ne.
+diu'sjrxt-ug. zbj'ge furry, zdjrbuzhp-qr. ryi-dvzgr'pi, rigztf'furza. vvizhvrqm-dr. dvs'jmzwh-le, zhb'mmzwh-le, vworcl lj-de xxzve'ge'po jmzjx ne.
 
 ## dchzku
 
@@ -62,16 +62,16 @@ vwo-de ua-bizgerrf xc'whzvj, vyi-jyrty-gg le, zuiryizdarto ui'uj, dynzwzrmo fh-l
 
 ## rlmzxi
 
-dvf de'ybrrfzhvrlmzxi wo-ma(((
+dvf de'ybrrfzhvrlmzxi wo-ma...
 
 - [Bilibili：`1561166904`](https://space.bilibili.com/1561166904)
 - [QQ：`2046665121`](https://qm.qq.com/q/7FcjsxM6zK)
 
 ##
 
-rbj bf: 2
+rbj bf: 3
 
-zri-qi: zri3zyt6rnm2025zgsryr
+zri-qi: zri6zyt6rnm2025zgsryr
 
 </details>
 
@@ -81,7 +81,7 @@ zri-qi: zri3zyt6rnm2025zgsryr
 
 ## Introduction
 
-Ninth grader, semi-furry, a bunch of quirks, "complex" composition. Only knows front-end. Forgot the middle part, forgot the end part – I really can't be bothered to write this stupid intro.
+Ninth-grade student. A furry but not involved in the community. Full of weird quirks and complicated traits. Only knows front-end development. Started to forget the middle part, then forgot the rest—can't be bothered to write this stupid intro anyway.
 
 ## Repositories
 
@@ -106,8 +106,8 @@ Will anyone actually contact me? lol
 
 ##
 
-Version: 2
+Version: 3
 
-Date: June 3, 2025
+Date: June 6, 2025
 
 </details>
