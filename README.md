@@ -1,6 +1,6 @@
 # XiaoluoFoxington Profile README
 
-<details open>
+<details>
 
 <summary>中文(简体)</summary>
 
@@ -75,7 +75,7 @@ zri-qi: zri6zyt6rnm2025zgsryr
 
 </details>
 
-<details>
+<details open>
 
 <summary>English</summary>
 
