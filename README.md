@@ -10,13 +10,13 @@
 
 ## 仓库
 
-### [FCL.website.mdui](https://github.com/XiaoluoFoxington/FCL.website.mdui)
+### [FCL.website.NEXT](https://github.com/XiaoluoFoxington/FCL.website.NEXT)
 
-我为 [《Fold Craft Launcher》](https://github.com/FCL-Team/FoldCraftLauncher) 制作的下载站。可以在这里下载到最新发行版。和HOMO14的网站一样，原创样式，但是由于这个下载站在社区中越来越知名，最终重制为MDUI了。旧版样式：[fcl-docs/FCL.website](https://github.com/fcl-docs/FCL.website)
+我为 [《Fold Craft Launcher》](https://github.com/FCL-Team/FoldCraftLauncher) 制作的下载站。可以在这里下载到FCL等各种安卓MC Java启动器相关资源。旧版本：[FCL.website.mdui](https://github.com/XiaoluoFoxington/FCL.website.mdui)；旧旧版本：[fcl-docs/FCL.website](https://github.com/fcl-docs/FCL.website)。
 
 ### [dsy-xiaoluo.github.io](https://github.com/XiaoluoFoxington/dsy-xiaoluo.github.io)
 
-我的傻逼个人小网站，已经停更了，是一大坨屎山，因为模仿了 Windows Vista Aero，还原度不高，随便看看就行了。我正在写一个新的网站，样式什么都不仿，但也不要期待，因为我连项目工程也没新建。
+我的傻逼个人小网站，已经停更了，是一大坨屎山。样式上模仿了 Windows Vista 的 Aero，还原度不高，随便看看就行了。我正在写一个新的网站，样式什么都不仿，但也不要期待，因为我连项目工程也没新建。
 
 ### [XiaoluoFoxington](https://github.com/XiaoluoFoxington/XiaoluoFoxington)
 
@@ -31,9 +31,9 @@
 
 ##
 
-版本：4
+版本：5
 
-日期：2025年9月1日
+日期：2025年11月29日
 
 </details>
 
@@ -47,13 +47,13 @@ dgk'yirxt-ug. zbj'ge furry, zdjrbuzhp-qr. ryi-dvzgr'pi, rigztf'furza. vvizhvrqm-
 
 ## dchzku
 
-### [FCL.website.mdui](https://github.com/XiaoluoFoxington/FCL.website.mdui)
+### [FCL.website.NEXT](https://github.com/XiaoluoFoxington/FCL.website.NEXT)
 
-vwozwz [《Fold Craft Launcher》](https://github.com/FCL-Team/FoldCraftLauncher) zvi'zo-dezxw zlzvj. rke yizzl've lizxw zlzdk'zv-xn bj. rhe HOMO14 dde whzvjryizyh, ryrzid'yh'ui, zdj'uiryb'yuzve'ge'xw zlzvj'zl'ue-qu'vszytrllzyt-virmy, zzv-vsriszvirwz MDUI vle. zjq bjzyh'ui: [fcl-docs/FCL.website](https://github.com/fcl-docs/FCL.website)
+vwozwz [《Fold Craft Launcher》](https://github.com/FCL-Team/FoldCraftLauncher) zvi'zo-dezxw zlzvj. rke yizzl've lizxw zlzdk FCL vdgzge vs Android MC Java vqizds'qi-xd'gr'ziryr. zjqrbr bf:[FCL.website.mdui](https://github.com/XiaoluoFoxington/FCL.website.mdui); zjq'jqrbj bf: [fcl-docs/FCL.website](https://github.com/fcl-docs/FCL.website)
 
 ### [dsy-xiaoluo.github.io](https://github.com/XiaoluoFoxington/dsy-xiaoluo.github.io)
 
-vwo-de ua-bizgerrf xc'whzvj, vyi-jyrty-gg le, zuiryizdarto ui'uj, dynzwzrmo fh-le Windows Vista Aero, rhr'yrzdu'bu-gk, rsvzbm'kj'kj'jqrxy le. vwozvg'zl xxryizge-xn'de whzvj, zyh'ui uf-me yezbu fh, zdj'yerbuzyk-qizdl, dynzwz worlmzxd'mu-gsrig yermz-xnzjm.
+vwo-de ua-bizgerrf xc'whzvj, vyi-jyrty-gg le, zuiryizdarto ui'uj. zyh'ui'uhrmo fh-le Windows Vista vde Aero, rhr'yrzdu'bu-gk, rsvzbm'kj'kj'jqrxy le. vwozvg'zl xxryizge-xn'de whzvj, zyh'ui uf-me yezbu fh, zdj'yerbuzyk-qizdl, dynzwz worlmzxd'mu-gsrig yermz-xnzjm.
 
 ### [XiaoluoFoxington](https://github.com/XiaoluoFoxington/XiaoluoFoxington)
 
@@ -68,9 +68,9 @@ dvf de'ybrrfzhvrlmzxi wo-ma...
 
 ##
 
-rbj bf: 4
+rbj bf: 5
 
-zri-qi: zri1zyt9rnm2025zgsryr
+zri-qi: zri29zyt11rnm2025zgsryr
 
 </details>
 
@@ -84,17 +84,17 @@ Tenth-grade student. A furry but not involved in the community. Full of weird qu
 
 ## Repositories
 
-### [FCL.website.mdui](https://github.com/XiaoluoFoxington/FCL.website.mdui)
+### [FCL.website.NEXT](https://github.com/XiaoluoFoxington/FCL.website.NEXT)
 
-A download site I made for [*Fold Craft Launcher*](https://github.com/FCL-Team/FoldCraftLauncher). Get the latest releases here. Originally had a custom style (just like the HOMO14 website), but as the site gained recognition in the community, it was eventually remade using MDUI. Old style: [fcl-docs/FCL.website](https://github.com/fcl-docs/FCL.website)
+A download site I made for [*Fold Craft Launcher*](https://github.com/FCL-Team/FoldCraftLauncher). You can grab FCL and other Android MC Java launcher resources here. Old version: [FCL.website.mdui](https://github.com/XiaoluoFoxington/FCL.website.mdui); Older version: [fcl-docs/FCL.website](https://github.com/fcl-docs/FCL.website).
 
 ### [dsy-xiaoluo.github.io](https://github.com/XiaoluoFoxington/dsy-xiaoluo.github.io)
 
-My dumb personal mini-website. It's discontinued and is a huge pile of spaghetti code. It vaguely imitates Windows Vista Aero – don't expect accuracy. Just take a look if you want. I'm working on a new site with an original style (no imitation), but don't get your hopes up, I haven't even created the project yet.
+My dumb personal mini-website. Discontinued and a huge pile of spaghetti code. Loosely mimics Windows Vista Aero—don’t expect pixel-perfect accuracy. I’m sketching a brand-new site with an original style (no imitation), but don’t hold your breath; I haven’t even created the project folder yet.
 
 ### [XiaoluoFoxington](https://github.com/XiaoluoFoxington/XiaoluoFoxington)
 
-A place where I dump miscellaneous small files, including but not limited to: the README you're seeing now, project files for videos I posted on Bilibili (excluding assets), novels I wrote when bored, and some other stuff.
+Dumping ground for random small files: this README, project files for my Bilibili videos (assets excluded), short stories I wrote when bored, and whatever else.
 
 ## Contact
 
@@ -105,8 +105,8 @@ Will anyone actually contact me? lol
 
 ##
 
-Version: 4
+Version: 5  
 
-Date: September 1, 2025
+Date: November 29, 2025
 
 </details>
