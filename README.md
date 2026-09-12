@@ -6,7 +6,7 @@
 
 ## 介绍
 
-高一学牲。是个furry，但不混圈。一堆怪癖，成分复杂。只会前端，和点C#。中间忘了，后面忘了，我才懒得写这个破介绍呢。
+高二学牲。是个furry，但不混圈。一堆怪癖，成分复杂。只会前端，和点C#。中间忘了，后面忘了，我才懒得写这个破介绍呢。
 
 ## 仓库
 
@@ -43,7 +43,7 @@
 
 ## zjx'uk
 
-dgk'yirxt-ug. zbj'ge furry, zdjrbuzhp-qr. ryi-dvzgr'pi, rigztf'furza. vvizhvrqm-dr, rhe dm C#. dvs'jmzwh-le, zhb'mmzwh-le, vworcl lj-de xxzve'ge'po jmzjx ne.
+dgkzerrxt-ug. zbj'ge furry, zdjrbuzhp-qr. ryi-dvzgr'pi, rigztf'furza. vvizhvrqm-dr, rhe dm C#. dvs'jmzwh-le, zhb'mmzwh-le, vworcl lj-de xxzve'ge'po jmzjx ne.
 
 ## dchzku
 
@@ -80,7 +80,7 @@ zri-qi: zri29zyt11rnm2025zgsryr
 
 ## Introduction
 
-Tenth-grade student. A furry but not involved in the community. Full of weird quirks and complicated traits. Only knows front-end and a bit of C#. Started to forget the middle part, then forgot the rest—can't be bothered to write this stupid intro anyway.
+11th-grade student. A furry but not involved in the community. Full of weird quirks and complicated traits. Only knows front-end and a bit of C#. Started to forget the middle part, then forgot the rest—can't be bothered to write this stupid intro anyway.
 
 ## Repositories
 
